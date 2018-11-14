@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from jituchauhan.com/real-wed/realwed/blog-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:39:41 GMT -->
+<!-- Mirrored from jituchauhan.com/real-wed/realwed/blog-full-screen-single.jsp by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:39:50 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -48,7 +48,7 @@
         </div>
     </div>
     <!--/.header-top -->
-   <!-- header -->
+    <!-- header -->
     <div class="header">
         <div class="container">
             <div class="row">
@@ -60,7 +60,7 @@
                     <!-- /.header-logo -->
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
-                <!-- navigations -->
+                  <!-- navigations -->
                     <div id="navigation">
                         <ul>
                             <li><a href="#" title="#">Homepages</a>
@@ -110,14 +110,14 @@
                                 <ul>
                                     <li><a href="#" title="">Blog Listing</a>
                                     <ul>
-                                        <li><a href="blog-listing.html" title="">Listing</a></li>
-                                        <li><a href="blog-classic.html" title="">Classic</a></li>
+                                        <li><a href="blog-listing.jsp" title="">Listing</a></li>
+                                        <li><a href="blog-classic.jsp" title="">Classic</a></li>
                                     </ul>
                                     </li>
                                     <li><a href="#" title="">Blog Single</a>
                                     <ul>
-                                        <li><a href="blog-single.html" title="">Blog Single</a></li>
-                                        <li><a href="blog-full-screen-single.html" title="">Blog Single Full Screen</a></li>
+                                        <li><a href="blog-single.jsp" title="">Blog Single</a></li>
+                                        <li><a href="blog-full-screen-single.jsp" title="">Blog Single Full Screen</a></li>
                                     </ul>
                                     </li>
                                 </ul>
@@ -126,12 +126,12 @@
                                 <ul>
                                     <li><a href="#" title="">Pages</a>
                                         <ul>
-                                            <li><a href="about-us.html" title="">About us</a></li>
+                                            <li><a href="about-us.jsp" title="">About us</a></li>
                                             <li><a href="team-page.html" title="">Meet the Team</a></li>
                                             <li><a href="pricing.html" title="">Pricing</a></li>
                                             <li><a href="error-404.html" title="">404</a></li>
                                             <li><a href="faq.html" title="">FAQ's</a></li>
-                                            <li><a href="contact-us.html" title="">Contact us</a></li>
+                                            <li><a href="contact-us.jsp" title="">Contact us</a></li>
                                             <li><a href="vendor-location.html" title="">Vendor Locations</a></li></ul>
                                     </li>
                                     <li><a href="#" title="">Forms</a>
@@ -155,7 +155,7 @@
                                             <li><a href="email-template/forgot-password.html" title="">Forgot Password</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="components.html" title="">Components</a></li>
+                                    <li><a href="components.jsp" title="">Components</a></li>
                                 </ul>
                             </li>
                             <li><a href="#" title="">User Panel</a>
@@ -176,9 +176,9 @@
                                             <li><a href="couple-dashboard-overview.html" title="">Dashboard</a></li>
                                             <li><a href="couple-dashboard-mywishlist.html" title="">My Listing</a></li>
                                             <li><a href="couple-dashboard-todolist.html" title="">To Do List</a></li>
-                                            <li><a href="couple-dashboard-budget.html" title="">Budget</a></li>
+                                            <li><a href="couple-dashboard-budget.jsp" title="">Budget</a></li>
                                             <li><a href="couple-dashboard-guest-manager.html" title="">Guest Manager</a></li>
-                                            <li><a href="couple-dashboard-add-new-guest.html" title="">Add New Guest</a></li>
+                                            <li><a href="couple-dashboard-add-new-guest.jsp" title="">Add New Guest</a></li>
                                             <li><a href="couple-dashboard-table-planner.html" title="">Seating Table</a></li>
                                             <li><a href="couple-dashboard-profile.html" title="">   Profile</a></li>
                                         </ul>
@@ -202,33 +202,23 @@
     </div>
     <!-- /.header -->
     <!-- page-header -->
-    <div class="page-header">
+    <div class="post-pageheader">
         <div class="container">
             <div class="row">
                 <!-- page caption -->
-                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
-                    <div class="page-caption">
-                        <h1 class="page-title">Blog Single</h1>
+                <div class="offset-xl-1 col-xl-10 offset-lg-1 col-lg-10 col-md-12 col-sm-12 col-12 ">
+                    <div class="page-section">
+                        <h1 class="text-white display-4">Happy Marriage Advice Every <br>Couple Could Use</h1>
+                        <p class="meta text-white">
+                            <span class="meta-posted-by">By <a href="#" class="text-white">Admin</a></span>
+                            <span class="meta-date">08 May, 2018</span>
+                        </p>
                     </div>
                 </div>
                 <!-- /.page caption -->
             </div>
         </div>
         <!-- page caption -->
-        <div class="page-breadcrumb">
-            <div class="container">
-                <div class="row">
-                    <nav aria-label="breadcrumb">
-                        <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="#" class="breadcrumb-link">Home</a></li>
-                            <li class="breadcrumb-item"><a href="#" class="breadcrumb-link">Blog</a></li>
-                            <li class="breadcrumb-item active text-white" aria-current="page">Blog Single </li>
-                        </ol>
-                    </nav>
-                </div>
-            </div>
-        </div>
-        <!-- page breadcrumb -->
     </div>
     <!-- /.page-header -->
     <div class="content">
@@ -239,16 +229,7 @@
                     <div class="post-content-single">
                         <div class="row">
                             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                <div class="post-img zoomimg">
-                                    <a href="#"><img src="images/post-img-classic-1.jpg" alt="" class="img-fluid"></a>
-                                </div>
                                 <div class="post-content text-left">
-                                    <h2> Happy Wedding Couple Walk Together </h2>
-                                    <p class="meta">
-                                        <span class="meta-posted-by">By <a href="#">Admin</a></span>
-                                        <span class="meta-date">08 May, 2018</span>
-                                        <span class="meta-comments text-primary">02 Comments</span>
-                                    </p>
                                     <p class="lead">Dolor sitamet consectetur adipiscing elentesque scelerisque vulputate odioat efficiuris eget efficitur enimnon congue augue integer acex magnaam sed malesuada min pharetra diamsed convallis lorullam ut sagittis sapien scelerisque.</p>
                                     <p>Sque vulputate odioat efficiuris eget efficitur enimnon congue augue integer acex magnaam sed malesuada min pharetra diamsed convallis lorullam ut sagittis sapien scelerisque olor sitamet consectetur adipiscing elentesque scelerisque vulputate odioat efficiuris eget efficitur enimnon congue augue integer acex magnaam sed malesuada min pharetra diamsed convallis lorullam ut sagittis sapien scelerisque.</p>
                                     <p>Nullam facilisis massa id elit ornare lobortised convallis purus ac tincidunt efficiturstibulum et rutrum onec vitae finibus quaenean dignissim nibh vel ante accumsan sagittis. Integer gravida aliquet auctor.</p>
@@ -268,7 +249,6 @@
                                     <h3>Heading title Sub</h3>
                                     <img src="images/align-center.jpg" alt="" class="mb30">
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque scelerisque vulputate odio at efficitu auris eget efficitur eninon congue augue nteger ac ex magnaam sed mal esuada min pharetra dlvinasellus vehicula purus eu eleifend dapibus.</p>
-                                       <h5>Tags:</h5> 
                                     <div class="widget-tags">
                                         <a href="#">Wedding</a>
                                         <a href="#">Wedding Venue</a>
@@ -276,23 +256,8 @@
                                         <a href="#">Wedding Vendor</a>
                                     </div>
                                 </div>
-
                             </div>
                             <!-- /.social-media -->
-                            <div class="col-xl-12 mt-2">
-                                <div class="card card-body card-shadow-none border mb-0">
-                                 
-                            <h4 >Share this </h4>
-                            <div class="social-icons">
-                                <a href="#" class="icon-square-outline facebook-outline"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#" class="icon-square-outline twitter-outline"><i class="fab fa-twitter"></i> </a>
-                                <a href="#" class="icon-square-outline googleplus-outline"><i class="fab fa-google-plus-g"></i></a>
-                                <a href="#" class="icon-square-outline instagram-outline"><i class="fab fa-instagram"></i></a>
-                                <a href="#" class="icon-square-outline linkedin-outline"><i class="fab fa-linkedin-in"></i></a>
-                                <a href="#" class="icon-square-outline pinterest-outline"><i class="fab fa-pinterest-p"></i></a>
-                            </div> 
-                            </div>
-                            </div>
                             <!-- prev-next-post -->
                             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                 <div class="next-prev-post">
@@ -309,7 +274,8 @@
                                         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                                             <div class="next-post">
                                                 <div><a href="#" class="next-link btn-default-link">Next Post</a></div>
-                                                <h3 class="next-link-title"><a href="#" class="title">Top 5 Wedding Friendly Cities in India</a></h3>
+                                                <h3 class="next-link-title"><a href="#" class="title">Top 5 Wedding Friendly Cities
+in India</a></h3>
                                             </div>
                                         </div>
                                         <!-- /.next-post -->
@@ -331,8 +297,7 @@
                                                 <div class="related-img">
                                                     <a href="#"><img src="images/related-post-img-1.jpg" alt="" class="img-fluid"></a>
                                                 </div>
-                                                <h4 class="realted-title"><a href="#" class="title">Top 4 Things Every Bride To Be Needs To Hear</a></h4>
-                                                <p class="related-post-meta"><span>In <span class="related-category">"Wedding Planning"</span></span></p>
+                                                <h4><a href="#" class="title">Top 4 Things Every Bride To Be Needs To Hear</a></h4>
                                             </div>
                                         </div>
                                         <!-- /.related-post -->
@@ -342,8 +307,7 @@
                                                 <div class="related-img">
                                                     <a href="#"><img src="images/related-post-img-2.jpg" alt="" class="img-fluid"></a>
                                                 </div>
-                                                <h4 class="realted-title"><a href="#" class="title">Top 5 Wedding Friendly Cities in India</a></h4>
-                                                 <p class="related-post-meta"><span>In <span class="related-category">"Wedding Planning"</span></span></p>
+                                                <h4><a href="#" class="title">Top 5 Wedding Friendly Cities in India</a></h4>
                                             </div>
                                         </div>
                                         <!-- /.related-post -->
@@ -353,8 +317,7 @@
                                                 <div class="related-img">
                                                     <a href="#"><img src="images/related-post-img-3.jpg" alt="" class="img-fluid"></a>
                                                 </div>
-                                                <h4 class="realted-title"><a href="#" class="title">5 Ways To Stay Sweat Free On Your Big Day</a></h4>
-                                                 <p class="related-post-meta"><span>In <span class="related-category">"Wedding Planning"</span></span></p>
+                                                <h4><a href="#" class="title">5 Ways To Stay Sweat Free On Your Big Day</a></h4>
                                             </div>
                                         </div>
                                         <!-- /.related-post -->
@@ -496,7 +459,7 @@
                             <!-- comment-form -->
                             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                 <div class="comments-reply">
-                                    <div class="leave-reply ">
+                                    <div class="leave-reply">
                                         <div class="row">
                                             <!-- comment-section -->
                                             <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12">
@@ -572,12 +535,11 @@
                         <div class="widget widget-category">
                             <h3 class="widget-title">Category</h3>
                             <ul class="angle">
-                                <li><a href="#">Wedding Venues</a></li>
+                                <li><a href="#">Photography</a></li>
                                 <li><a href="#">Wedding Planning</a></li>
-                                <li><a href="#">Vendor Guide</a></li>
-                                <li><a href="#">Diy weddings</a></li>
-                                <li><a href="#">Wedding Events</a></li>
-                                <li><a href="#">Ideas & Inspiration</a></li>
+                                <li><a href="#">Flowers</a></li>
+                                <li><a href="#">Cakes</a></li>
+                                <li><a href="#">Catering</a></li>
                             </ul>
                         </div>
                         <!-- /.widget-categories -->
@@ -589,7 +551,7 @@
                                 <li>
                                     <div class="row">
                                         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-4">
-                                            <div class="recent-post-img">
+                                            <div class="recent-post-img zoomimg">
                                                 <a href="#"><img src="images/recent-post-img-1.jpg" alt=""></a>
                                             </div>
                                         </div>
@@ -606,7 +568,7 @@
                                 <li>
                                     <div class="row">
                                         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-4">
-                                            <div class="recent-post-img">
+                                            <div class="recent-post-img zoomimg">
                                                 <a href="#"><img src="images/recent-post-img-2.jpg" alt=""></a>
                                             </div>
                                         </div>
@@ -623,7 +585,7 @@
                                 <li>
                                     <div class="row">
                                         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-4">
-                                            <div class="recent-post-img">
+                                            <div class="recent-post-img zoomimg">
                                                 <a href="#"><img src="images/recent-post-img-3.jpg" alt=""></a>
                                             </div>
                                         </div>
@@ -640,7 +602,7 @@
                                 <li>
                                     <div class="row">
                                         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-4">
-                                            <div class="recent-post-img">
+                                            <div class="recent-post-img zoomimg">
                                                 <a href="#"><img src="images/recent-post-img-4.jpg" alt=""></a>
                                             </div>
                                         </div>
@@ -780,5 +742,5 @@
 </body>
 
 
-<!-- Mirrored from jituchauhan.com/real-wed/realwed/blog-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:39:49 GMT -->
+<!-- Mirrored from jituchauhan.com/real-wed/realwed/blog-full-screen-single.jsp by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:39:50 GMT -->
 </html>

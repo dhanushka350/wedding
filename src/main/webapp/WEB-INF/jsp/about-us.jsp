@@ -2,17 +2,17 @@
 <html lang="en">
 
 
-<!-- Mirrored from jituchauhan.com/real-wed/realwed/vendor-location.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:39:07 GMT -->
+<!-- Mirrored from jituchauhan.com/real-wed/realwed/about-us.jsp by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:39:50 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>RealWed | Wedding Vendor & Supplier Directory HTML Template - Vendor By Location</title>
+    <title>RealWed | Wedding Vendor & Supplier Directory HTML Template - About us</title>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
+   <link href="https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
     <!-- FontAwesome icon -->
     <link href="fontawesome/css/fontawesome-all.css" rel="stylesheet">
     <!-- Fontello icon -->
@@ -24,9 +24,9 @@
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
-          <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-        <![endif]-->
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
 </head>
 
 <body>
@@ -41,7 +41,7 @@
                 </div>
                 <div class="col-xl-6 col-lg-6 col-sm-6 col-md-6 col-sm-12 col-12">
                     <div class="header-text text-right">
-                        <p>Are You Vendor ? <a href="vendor-form.html" class="text-white">List Your Business</a></p>
+                        <p>Are You Vendor?<a href="vendor-form.html" class="text-white">List Your Business</a></p>
                     </div>
                 </div>
             </div>
@@ -60,7 +60,7 @@
                     <!-- /.header-logo -->
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
-                   <!-- navigations -->
+                     <!-- navigations -->
                     <div id="navigation">
                         <ul>
                             <li><a href="#" title="#">Homepages</a>
@@ -132,8 +132,7 @@
                                             <li><a href="error-404.html" title="">404</a></li>
                                             <li><a href="faq.html" title="">FAQ's</a></li>
                                             <li><a href="contact-us.jsp" title="">Contact us</a></li>
-                                            <li><a href="vendor-location.html" title="">Vendor Locations</a></li>
-                                        </ul>
+                                            <li><a href="vendor-location.html" title="">Vendor Locations</a></li></ul>
                                     </li>
                                     <li><a href="#" title="">Forms</a>
                                         <ul>
@@ -209,7 +208,7 @@
                 <!-- page caption -->
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
                     <div class="page-caption">
-                        <h1 class="page-title">Vendor By Location</h1>
+                        <h1 class="page-title">About us</h1>
                     </div>
                 </div>
                 <!-- /.page caption -->
@@ -222,7 +221,8 @@
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="#" class="breadcrumb-link">Home</a></li>
-                            <li class="breadcrumb-item active text-white" aria-current="page">Vendor location</li>
+                            <li class="breadcrumb-item"><a href="#" class="breadcrumb-link">Pages</a></li>
+                            <li class="breadcrumb-item active text-white" aria-current="page">About us</li>
                         </ol>
                     </nav>
                 </div>
@@ -231,78 +231,207 @@
         <!-- page breadcrumb -->
     </div>
     <!-- /.page-header -->
-    <div class="content">
+    <!-- about-descriptions -->
+    <div class="space-medium pb-0">
         <div class="container">
             <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                    <div class="card-category">
-                        <div class="category-image zoomimg"><a href="#"><img src="images/category-location-img-1.jpg" alt=""></a></div>
-                        <div class="category-content">
-                            <h3 class="cateogry-title"> <a href="#">Ahmedabad</a> <span class="category-count">(12)</span></h3>
+                <!--  about-details  -->
+                <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12 mb60">
+                    <div class="about-descriptions text-center">
+                        <div class="circle-icon rounded-circle bg-default mb30">
+                            <i class="icon-051-balloons"></i>
+                        </div>
+                        <h2>A Vision Beyond Your Dreams</h2>
+                        <p class="lead">Founded in 2015, RealWed is online wedding directory. Elit sed lectus molestie dictum. Integer vehicula malesuada euismod. Vivamus tellus to id massa quis, pretium convallis augue. Phasellus efficitur aumetus ullamcs tempor erat quis accumsan simple dummy content.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 pl-xl-0 pr-xl-0">
+                    <div class="card-group">
+                        <div class="card">
+                            <div class="card-body metrics">
+                                <h1 class="metrics-title">Founded in</h1>
+                                <h2 class="metrics-subtitle">2015</h2>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-body metrics">
+                                <h1 class="metrics-title ">City</h1>
+                                <h2 class="metrics-subtitle ">13000</h2>
+                            </div>
+                        </div>
+                        <div class="card ">
+                            <div class="card-body metrics">
+                                <h1 class="metrics-title">Our Team</h1>
+                                <h2 class="metrics-subtitle">45+</h2>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                    <div class="card-category">
-                        <div class="category-image zoomimg"><a href="#"><img src="images/category-location-img-2.jpg" alt=""></a></div>
-                        <div class="category-content">
-                            <h3 class="cateogry-title"> <a href="#">Surat</a> <span class="category-count">(2)</span></h3>
+            </div>
+        </div>
+    </div>
+    <div class="space-medium">
+        <div class="container">
+            <div class="row">
+                <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12 text-center">
+                    <div class="section-title">
+                        <h2>What we do</h2>
+                        <p>Sed iaculis elit sed lectus molestie dictum. Integer vehicula malesuada euismod. Vivamus tellus tortor, accumsan id massa quis.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 text-center">
+                    <div class="feature-block">
+                        <div class="circle-icon bg-info rounded-circle mb30">
+                            <i class="icon-038-bouquet"></i>
+                        </div>
+                        <div class="feature-content">
+                            <h3>Hire the right vendor</h3>
+                            <p>Sed iaculis elit sed lectus molestie dictger vehicullesuada euismod. Vivamus tellusassa quis, pretium convallis augue. </p>
+                            <a href="#" class="btn btn-outline-default">find now</a>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                    <div class="card-category">
-                        <div class="category-image zoomimg"><a href="#"><img src="images/category-location-img-3.jpg" alt=""></a></div>
-                        <div class="category-content">
-                            <h3 class="cateogry-title"><a href="#">Vadodara</a> <span class="category-count">(3)</span></h3>
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 text-center">
+                    <div class="feature-block">
+                        <div class="circle-icon bg-danger rounded-circle mb30">
+                            <i class="icon-013-calendar"></i>
+                        </div>
+                        <div class="feature-content">
+                            <h3>Wedding Planning Tools</h3>
+                            <p>Phasellus efficitur auctor felis, sit amet aliquet metus ullamcorper at. Aliquam rhoncus tempor erat quis accumsan. </p>
+                            <a href="#" class="btn btn-outline-default">Star Your Planning</a>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                    <div class="card-category">
-                        <div class="category-image zoomimg"><a href="#"><img src="images/category-location-img-4.jpg" alt=""></a></div>
-                        <div class="category-content">
-                            <h3 class="cateogry-title"> <a href="#">Rajkot</a> <span class="category-count">(4)</span></h3>
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 text-center">
+                    <div class="feature-block">
+                        <div class="circle-icon bg-secondary rounded-circle mb30">
+                            <i class="icon-021-love-1"></i>
+                        </div>
+                        <div class="feature-content">
+                            <h3>Wedding Tips & advice</h3>
+                            <p>Vivamus tellus tortor, accumsan id massa quis, pretium convallis augue. Aliquam rhoncus tempor erat quis accumsan.</p>
+                            <a href="#" class="btn btn-outline-default">read our articles</a>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                    <div class="card-category">
-                        <div class="category-image zoomimg"><a href="#"><img src="images/category-location-img-5.jpg" alt=""></a></div>
-                        <div class="category-content">
-                            <h3 class="cateogry-title"> <a href="#">Jaipur</a> <span class="category-count">(8)</span></h3>
+            </div>
+        </div>
+    </div>
+    <!-- /.feature-section -->
+    <div class="space-medium bg-white">
+        <div class="container">
+            <div class="row">
+                <div class="offset-xl-1 col-xl-10 offset-lg-1 col-lg-10 col-md-12 col-sm-12 col-12 ">
+                    <div class="section-title">
+                        <h2>Core Values</h2>
+                        <p>Sed iaculis elit sed lectus molestie dictum. Integer vehicula malesuada euismod.
+                            <br> Vivamus tellus tortor, accumsan id massa quis.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="offset-xl-1 col-xl-10 offset-lg-1 col-lg-10 col-md-12 col-sm-12 col-12 ">
+                    <ul class="list-group list-group-flush value-section">
+                        <li class="list-group-item pl-0 pr-0">
+                            <div class="row">
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <h3 class="heading-btm-line">Leadership</h3>
+                                </div>
+                                <div class="col-xl-8 col-lg-8 col-md-6 col-sm-12 col-12">
+                                    <p><strong>The courage to shape a better future.</strong> Phasellus efficitur auctor felis, sit amet aliquet metus ullamcorper at. Aliquam rhoncus tempor erat quis accumsan.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="list-group-item pl-0 pr-0">
+                            <div class="row">
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <h3 class="heading-btm-line">Perfactions</h3>
+                                </div>
+                                <div class="col-xl-8 col-lg-8 col-md-6 col-sm-12 col-12">
+                                    <p>Phasellus efficitur auctor felis, <strong>sit amet aliquet metus ullamcorper at</strong>. Aliquam rhoncus tempor erat quis accumsan.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="list-group-item pl-0 pr-0">
+                            <div class="row">
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <h3 class="heading-btm-line">Focus on Impact</h3>
+                                </div>
+                                <div class="col-xl-8 col-lg-8 col-md-6 col-sm-12 col-12">
+                                    <p>Fusce nec arcu ipsum. Aenean sit amet ante ante. <strong>Nulla ultricies vehicula purus id malesuada</strong>.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="list-group-item pl-0 pr-0">
+                            <div class="row">
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <h3 class="heading-btm-line">Create a Cluture</h3>
+                                </div>
+                                <div class="col-xl-8 col-lg-8 col-md-6 col-sm-12 col-12">
+                                    <p>Phasellus efficitur auctor felis, sit <strong>amet aliquet metus ullamcorper at</strong>. Aliquam rhoncus tempor erat quis accumsan.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="list-group-item pl-0 pr-0">
+                            <div class="row">
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <h3 class="heading-btm-line">Supporting Sustainability</h3>
+                                </div>
+                                <div class="col-xl-8 col-lg-8 col-md-6 col-sm-12 col-12">
+                                    <p>Maecenas commodo erat sit amet luctus aliquet. <strong>Maecenas ut mauris id orci lobortis tincidunt</strong>.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="list-group-item pl-0 pr-0">
+                            <div class="row">
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <h3 class="heading-btm-line">Passion</h3>
+                                </div>
+                                <div class="col-xl-8 col-lg-8 col-md-6 col-sm-12 col-12">
+                                    <p>Nullam placerat, leo at vulputate iaculis, <strong>arcu dolor eleifend lorem, sed sodales</strong> ligula sem ornare ligula.</p>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="space-medium">
+        <div class="container ">
+            <div class="row ">
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 ">
+                    <div class="card">
+                        <div class="card-body">
+                            <h3 class="">Work with us - Career</h3>
+                            <div class="mb20">
+                                <img src="images/workplace-img-1.jpg" alt="" class="img-fluid">
+                            </div>
+                            <p>Nullam placerat, leo at vulputate iaculis, arcu dolor eleifend lorem, sed sodales ligula sem ornare ligula.</p>
+                        </div>
+                        <div class="card-footer">
+                            <a href="#" class="btn-default-link">Our Open Position</a>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                    <div class="card-category">
-                        <div class="category-image zoomimg"><a href="#"><img src="images/category-location-img-6.jpg" alt=""></a></div>
-                        <div class="category-content">
-                            <h3 class="cateogry-title"><a href="#">Udaipur</a> <span class="category-count">(6)</span></h3>
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 ">
+                    <div class="card">
+                        <div class="card-body">
+                            <h3 class="">Our Leadership Principles</h3>
+                            <div class="mb20">
+                                <img src="images/workplace-img-2.jpg" alt="" class="img-fluid">
+                            </div>
+                            <p>Arcu dolor eleifend loremullam placerat, leo at vulputat a sed sodales ligula sem ornare ligulaculis.</p>
                         </div>
-                    </div>
-                </div>
-                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                    <div class="card-category">
-                        <div class="category-image zoomimg"><a href="#"><img src="images/category-location-img-7.jpg" alt=""></a></div>
-                        <div class="category-content">
-                            <h3 class="cateogry-title"> <a href="#">Jodhpur</a> <span class="category-count">(4)</span></h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                    <div class="card-category">
-                        <div class="category-image zoomimg"><a href="#"><img src="images/category-location-img-8.jpg" alt=""></a></div>
-                        <div class="category-content">
-                            <h3 class="cateogry-title"> <a href="#">Pune</a> <span class="category-count">(8)</span></h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                    <div class="card-category">
-                        <div class="category-image zoomimg"><a href="#"><img src="images/category-location-img-9.jpg" alt=""></a></div>
-                        <div class="category-content">
-                            <h3 class="cateogry-title"><a href="#">Mumbai</a> <span class="category-count">(6)</span></h3>
+                        <div class="card-footer">
+                            <a href="#" class="btn-default-link">Meet The Team</a>
                         </div>
                     </div>
                 </div>
@@ -310,19 +439,19 @@
         </div>
     </div>
     <!-- social-media-section -->
-    <div class="social-media-block">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-7 col-lg-7 col-md-6 col-sm-12 col-12">
-                    <h3 class="text-white mb0 mt10">Would you like to connect with us</h3>
+    <div class="social-media-block ">
+        <div class="container ">
+            <div class="row ">
+                <div class="col-xl-7 col-lg-7 col-md-6 col-sm-12 col-12 ">
+                    <h3 class="text-white mb0 mt10 ">Would you like to connect with us</h3>
                 </div>
-                <div class="col-xl-5 col-lg-5 col-md-6 col-sm-12 col-12 text-right">
-                    <div class="social-icons">
-                        <a href="#" class="icon-square"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#" class="icon-square"><i class="fab fa-twitter"></i> </a>
-                        <a href="#" class="icon-square"><i class="fab fa-google-plus-g"></i></a>
-                        <a href="#" class="icon-square"><i class="fab fa-instagram"></i></a>
-                        <a href="#" class="icon-square"><i class="fab fa-youtube"></i></a>
+                <div class="col-xl-5 col-lg-5 col-md-6 col-sm-12 col-12 text-right ">
+                    <div class="social-icons ">
+                        <a href="# " class="icon-square "><i class="fab fa-facebook-f "></i></a>
+                        <a href="# " class="icon-square "><i class="fab fa-twitter "></i> </a>
+                        <a href="# " class="icon-square "><i class="fab fa-google-plus-g "></i></a>
+                        <a href="# " class="icon-square "><i class="fab fa-instagram "></i></a>
+                        <a href="# " class="icon-square "><i class="fab fa-youtube "></i></a>
                     </div>
                 </div>
             </div>
@@ -330,55 +459,55 @@
     </div>
     <!-- /.social-media-section -->
     <!-- footer-section -->
-    <div class="footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
+    <div class="footer ">
+        <div class="container ">
+            <div class="row ">
+                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12 ">
                     <!-- footer-widget -->
-                    <div class="footer-widget">
-                        <a href="#"><img src="images/footer-logo.png" alt="" class="mb20"></a>
-                        <p class="mb10">Vestibulum ante elit, convallis quis nibh in, vulputate rhoncus massa. In hac habitasse platea dictumst.</p>
+                    <div class="footer-widget ">
+                        <a href="# "><img src="images/footer-logo.png" alt=" " class="mb20 "></a>
+                        <p class="mb10 ">Vestibulum ante elit, convallis quis nibh in, vulputate rhoncus massa. In hac habitasse platea dictumst.</p>
                         <p>In hac habitasse platea dictumst simple dummy content here.</p>
                     </div>
                 </div>
                 <!-- /.footer-widget -->
                 <!-- footer-widget -->
-                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-12">
-                    <div class="footer-widget">
-                        <h3 class="widget-title">
+                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-12 ">
+                    <div class="footer-widget ">
+                        <h3 class="widget-title ">
                             Contact Address
                         </h3>
                         <p>4998 Elk Creek Road Canton,
                             <br> GA 30114</p>
-                        <p class="mb0 text-default">+0-800-1234-123</p>
-                        <p class="mb0 text-default">info@realwed.com</p>
+                        <p class="mb0 text-default ">+0-800-1234-123</p>
+                        <p class="mb0 text-default ">info@realwed.com</p>
                     </div>
                 </div>
                 <!-- /.footer-widget -->
                 <!-- footer-widget -->
-                <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6 col-12">
-                    <div class="footer-widget">
-                        <h3 class="widget-title">
+                <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6 col-12 ">
+                    <div class="footer-widget ">
+                        <h3 class="widget-title ">
                             About Company
                         </h3>
-                        <ul class="listnone">
-                            <li><a href="#">About us</a></li>
-                            <li><a href="#">Contact us</a></li>
-                            <li><a href="#">Faq</a></li>
-                            <li><a href="#">Pricing Plan</a></li>
-                            <li><a href="#">Meet The Team</a></li>
+                        <ul class="listnone ">
+                            <li><a href="# ">About us</a></li>
+                            <li><a href="# ">Contact us</a></li>
+                            <li><a href="# ">Faq</a></li>
+                            <li><a href="# ">Pricing Plan</a></li>
+                            <li><a href="# ">Meet The Team</a></li>
                         </ul>
                     </div>
                 </div>
                 <!-- /.footer-widget -->
                 <!-- /.footer-widget -->
-                <div class="col-xl-3 col-lg-3 col-md-12 col-sm-6 col-12">
-                    <div class="footer-widget">
-                        <h3 class="widget-title">
+                <div class="col-xl-3 col-lg-3 col-md-12 col-sm-6 col-12 ">
+                    <div class="footer-widget ">
+                        <h3 class="widget-title ">
                             List you Business
                         </h3>
                         <p>Are you vendor ? List your venue and service get more from listing business.</p>
-                        <a href="#" class="btn btn-default">List your Business</a>
+                        <a href="# " class="btn btn-default ">List your Business</a>
                     </div>
                 </div>
                 <!-- /.footer-widget -->
@@ -386,10 +515,10 @@
         </div>
     </div>
     <!-- tiny-footer-section -->
-    <div class="tiny-footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 text-right">
+    <div class="tiny-footer ">
+        <div class="container ">
+            <div class="row ">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 text-right ">
                     <p>© 2018 RealWed. All Rights Reserved.</p>
                 </div>
             </div>
@@ -407,5 +536,5 @@
 </body>
 
 
-<!-- Mirrored from jituchauhan.com/real-wed/realwed/vendor-location.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:39:10 GMT -->
+<!-- Mirrored from jituchauhan.com/real-wed/realwed/about-us.jsp by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:39:51 GMT -->
 </html>

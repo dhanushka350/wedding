@@ -2,13 +2,13 @@
 <html lang="en">
 
 
-<!-- Mirrored from jituchauhan.com/real-wed/realwed/blog-listing.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:39:34 GMT -->
+<!-- Mirrored from jituchauhan.com/real-wed/realwed/blog-classic.jsp by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:39:39 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>RealWed | Wedding Vendor & Supplier Directory HTML Template - Blog List</title>
+    <title>RealWed | Wedding Vendor & Supplier Directory HTML Template - Blog Classic</title>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!-- Google Fonts -->
@@ -19,6 +19,9 @@
     <link href="fontello/css/fontello.css" rel="stylesheet">
     <!-- Favicon icon -->
     <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+    <!-- OwlCarosuel CSS -->
+    <link href="css/owl.carousel.css" type="text/css" rel="stylesheet">
+    <link href="css/owl.theme.default.css" type="text/css" rel="stylesheet">
     <!-- Style CSS -->
     <link href="css/style.css" rel="stylesheet">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -48,7 +51,7 @@
         </div>
     </div>
     <!--/.header-top -->
-     <!-- header -->
+    <!-- header -->
     <div class="header">
         <div class="container">
             <div class="row">
@@ -110,14 +113,14 @@
                                 <ul>
                                     <li><a href="#" title="">Blog Listing</a>
                                     <ul>
-                                        <li><a href="blog-listing.html" title="">Listing</a></li>
-                                        <li><a href="blog-classic.html" title="">Classic</a></li>
+                                        <li><a href="blog-listing.jsp" title="">Listing</a></li>
+                                        <li><a href="blog-classic.jsp" title="">Classic</a></li>
                                     </ul>
                                     </li>
                                     <li><a href="#" title="">Blog Single</a>
                                     <ul>
-                                        <li><a href="blog-single.html" title="">Blog Single</a></li>
-                                        <li><a href="blog-full-screen-single.html" title="">Blog Single Full Screen</a></li>
+                                        <li><a href="blog-single.jsp" title="">Blog Single</a></li>
+                                        <li><a href="blog-full-screen-single.jsp" title="">Blog Single Full Screen</a></li>
                                     </ul>
                                     </li>
                                 </ul>
@@ -126,12 +129,12 @@
                                 <ul>
                                     <li><a href="#" title="">Pages</a>
                                         <ul>
-                                            <li><a href="about-us.html" title="">About us</a></li>
+                                            <li><a href="about-us.jsp" title="">About us</a></li>
                                             <li><a href="team-page.html" title="">Meet the Team</a></li>
                                             <li><a href="pricing.html" title="">Pricing</a></li>
                                             <li><a href="error-404.html" title="">404</a></li>
                                             <li><a href="faq.html" title="">FAQ's</a></li>
-                                            <li><a href="contact-us.html" title="">Contact us</a></li>
+                                            <li><a href="contact-us.jsp" title="">Contact us</a></li>
                                             <li><a href="vendor-location.html" title="">Vendor Locations</a></li></ul>
                                     </li>
                                     <li><a href="#" title="">Forms</a>
@@ -155,7 +158,7 @@
                                             <li><a href="email-template/forgot-password.html" title="">Forgot Password</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="components.html" title="">Components</a></li>
+                                    <li><a href="components.jsp" title="">Components</a></li>
                                 </ul>
                             </li>
                             <li><a href="#" title="">User Panel</a>
@@ -176,9 +179,9 @@
                                             <li><a href="couple-dashboard-overview.html" title="">Dashboard</a></li>
                                             <li><a href="couple-dashboard-mywishlist.html" title="">My Listing</a></li>
                                             <li><a href="couple-dashboard-todolist.html" title="">To Do List</a></li>
-                                            <li><a href="couple-dashboard-budget.html" title="">Budget</a></li>
+                                            <li><a href="couple-dashboard-budget.jsp" title="">Budget</a></li>
                                             <li><a href="couple-dashboard-guest-manager.html" title="">Guest Manager</a></li>
-                                            <li><a href="couple-dashboard-add-new-guest.html" title="">Add New Guest</a></li>
+                                            <li><a href="couple-dashboard-add-new-guest.jsp" title="">Add New Guest</a></li>
                                             <li><a href="couple-dashboard-table-planner.html" title="">Seating Table</a></li>
                                             <li><a href="couple-dashboard-profile.html" title="">   Profile</a></li>
                                         </ul>
@@ -208,7 +211,7 @@
                 <!-- page caption -->
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
                     <div class="page-caption">
-                        <h1 class="page-title">Blog List</h1>
+                        <h1 class="page-title">Blog Classic</h1>
                     </div>
                 </div>
                 <!-- /.page caption -->
@@ -221,7 +224,7 @@
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="#" class="breadcrumb-link">Home</a></li>
-                            <li class="breadcrumb-item active text-white" aria-current="page">Blog List</li>
+                            <li class="breadcrumb-item active text-white" aria-current="page">Blog Classic</li>
                         </ol>
                     </nav>
                 </div>
@@ -235,79 +238,99 @@
             <div class="row">
                 <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 col-12">
                     <div class="row">
-                        <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                             <div class="post-block">
                                 <!-- post vertical block -->
                                 <div class="post-img zoomimg">
-                                    <a href="#"><img src="images/post-img-1.jpg" alt="" class="img-fluid"></a>
+                                    <a href="#"><img src="images/post-img-classic-1.jpg" alt="" class="img-fluid"></a>
                                 </div>
                                 <div class="post-content">
-                              <h2 class="post-heading"><a href="#" class="post-title">Happy Wedding Couple Walk Together </a></h2>
-                                    <p class="meta">
-                                        <span class="meta-posted-by"><i class="fas fa-user"></i> By <a href="#">Admin</a></span>
-                                        <span class="meta-date"><i class="fas fa-calendar-alt"></i> 08 May, 2018</span>
-                                    </p>
-                                    <p> Donec porttitor molestie lacus, ac suscipit ipsum scelerisque nec. Duis urna odio, ultricies egestadio.</p>
-                                    <a href="#" class="btn-default-link">Read More</a>
-                                </div>
-                            </div>
-                            <!-- /.post vertical block -->
-                        </div>
-                        <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-                            <div class="post-block">
-                                <!-- post vertical block -->
-                                <div class="post-img zoomimg">
-                                    <a href="#"><img src="images/post-img-2.jpg" alt=""  class="img-fluid"></a>
-                                </div>
-                                <div class="post-content">
-                                    <h2 class="post-heading"><a href="#" class="post-title">4 Things Every Bride To Be Needs To Hear </a></h2>
+                                    <h2><a href="#" class="post-title">Happy Wedding Couple Walk Together </a></h2>
                                     <p class="meta">
                                         <span class="meta-posted-by">By <a href="#">Admin</a></span>
                                         <span class="meta-date">08 May, 2018</span>
+                                        <span class="meta-comments text-primary">02 Comments</span>
                                     </p>
-                                    <p> Duis urna odio, ultricies pellentesque fermentum egesporttitor molestie lacus, ac suscipit . </p>
+                                    <p>Donec sollicitudin luctus lorem a pharetra. Lorem ipsum dolor sit amet consectetur adipiscing elit. Cras felis elit lacinia ac eleifend sit amet facilisis idmi.</p>
                                     <a href="#" class="btn-default-link">Read More</a>
                                 </div>
                             </div>
                             <!-- /.post vertical block -->
                         </div>
-                        <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                             <div class="post-block">
                                 <!-- post vertical block -->
-                                <div class="post-img zoomimg">
-                                    <a href="#"><img src="images/post-img-3.jpg" alt=""  class="img-fluid"></a>
+                                <div class="post-carousel">
+                                    <div class="post-owl owl-carousel owl-theme">
+                                        <div class="item">
+                                            <div class="post-img zoomimg">
+                                                <a href="#"><img src="images/post-img-classic-1.jpg" alt=""  class="img-fluid"></a>
+                                            </div>
+                                        </div>
+                                        <div class="item">
+                                            <div class="post-img zoomimg">
+                                                <a href="#"><img src="images/post-img-classic-2.jpg" alt=""  class="img-fluid"></a>
+                                            </div>
+                                        </div>
+                                        <div class="item">
+                                            <div class="post-img zoomimg">
+                                                <a href="#"><img src="images/post-img-classic-3.jpg" alt=""  class="img-fluid"></a>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="post-content">
-                                    <h2 class="post-heading"><a href="#" class="post-title">5 Ways To Stay Sweat Free On Your Big Day </a></h2>
+                                    <h2><a href="#" class="post-title">4 Things Every Bride To Be Needs To Hear </a></h2>
+                                    <p class="meta">
+                                        <span class="meta-posted-by">By <a href="#">Admin</a></span>
+                                        <span class="meta-date">08 May, 2018</span>
+                                        <span class="meta-comments text-primary">02 Comments</span>
+                                    </p>
+                                    <p>Morbi non odio ultricies, vestibulum lorem quis, imperdiet nulla. Aliquam nunc sem maximus vitae viverra id, rutrum ut magnaspendisse potenti.</p>
+                                    <a href="#" class="btn-default-link">Read More</a>
+                                </div>
+                            </div>
+                            <!-- /.post vertical block -->
+                        </div>
+                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                            <div class="post-block ">
+                                <!-- post vertical block -->
+                                <div class="embed-responsive embed-responsive-16by9">
+                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/C_clQDNk2fU" allowfullscreen></iframe>
+                                </div>
+                                <div class="post-content">
+                                    <h2><a href="#" class="post-title">5 Ways To Stay Sweat Free On Your Big Day </a></h2>
                                     <p class="meta">
                                         <span class="meta-posted-by">By <a href="#">Admin</a></span>
                                         <span class="meta-date">09 May, 2018</span>
+                                        <span class="meta-comments text-primary">02 Comments</span>
                                     </p>
-                                    <p> Nullam semper mi purmod odio iaculis et. Phasellus congue faucibus feliseu lacinia libero accumsan sed. </p>
+                                    <p>Nunc urna arcu, semper vitae dapibus id, porttitor varius nisi. Donec tempus magna et arcu tincidunda metus auctoruncarcu faucibus vehicula in id turpis. </p>
                                     <a href="#" class="btn-default-link">Read More</a>
                                 </div>
                             </div>
                             <!-- /.post vertical block -->
                         </div>
-                        <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                             <div class="post-block">
                                 <!-- post vertical block -->
                                 <div class="post-img zoomimg">
-                                    <a href="#"><img src="images/post-img-4.jpg" alt=""  class="img-fluid"></a>
+                                    <a href="#"><img src="images/post-img-classic-4.jpg" alt=""  class="img-fluid"></a>
                                 </div>
                                 <div class="post-content">
-                                    <h2 class="post-heading"><a href="#" class="post-title">Top 5 Wedding Friendly Cities in India </a></h2>
+                                    <h2><a href="#" class="post-title">Top 5 Wedding Friendly Cities in India </a></h2>
                                     <p class="meta">
                                         <span class="meta-posted-by">By <a href="#">Admin</a></span>
                                         <span class="meta-date">07 May, 2018</span>
+                                        <span class="meta-comments text-primary">02 Comments</span>
                                     </p>
-                                    <p> Mauris est quam, fermentum in aliquimentum vel urna ullam acilisis sit amet placerat quis, semper ac eros.</p>
+                                    <p>Quisque libero risus, laoreet eget tellus eu sollicitudin aliquam erat. In hac habitasse platea dictumst. Nunc malesuada fringilla lorem vel consectetur metus varius ut. </p>
                                     <a href="#" class="btn-default-link">Read More</a>
                                 </div>
                             </div>
                             <!-- /.post vertical block -->
                         </div>
-                        <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                             <div class="post-block">
                                 <div class="post-content text-left">
                                     <!-- post vertical block -->
@@ -319,14 +342,15 @@
                             </div>
                             <!-- /.post vertical block -->
                         </div>
-                        <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                             <div class="post-block">
                                 <!-- post vertical block -->
                                 <div class="post-content">
-                                    <h2 class="post-heading"><a href="#" class="post-title">Steps for Setting a Wedding Date in 2017 </a></h2>
+                                    <h2><a href="#" class="post-title">Steps for Setting a Wedding Date in 2017 </a></h2>
                                     <p class="meta">
                                         <span class="meta-posted-by">By <a href="#">Admin</a></span>
                                         <span class="meta-date">05 May, 2018</span>
+                                        <span class="meta-comments text-primary">02 Comments</span>
                                     </p>
                                     <p> Fusce dapibus tempor liguin mattis erosense dictum egenean simple dummy sitamet risus ipsum. </p>
                                     <a href="#" class="btn-default-link">Read More</a>
@@ -573,8 +597,9 @@
     <script src="js/menumaker.min.js"></script>
     <script src="js/custom-script.js"></script>
     <script src="js/return-to-top.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
 </body>
 
 
-<!-- Mirrored from jituchauhan.com/real-wed/realwed/blog-listing.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:39:39 GMT -->
+<!-- Mirrored from jituchauhan.com/real-wed/realwed/blog-classic.jsp by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:39:41 GMT -->
 </html>

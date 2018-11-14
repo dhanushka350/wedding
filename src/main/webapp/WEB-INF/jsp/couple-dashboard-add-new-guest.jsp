@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from jituchauhan.com/real-wed/realwed/couple-dashboard-add-new-guest.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:40:43 GMT -->
+<!-- Mirrored from jituchauhan.com/real-wed/realwed/couple-dashboard-add-new-guest.jsp by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:40:43 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -48,7 +48,7 @@
                                 <a class="dropdown-item" href="couple-dashboard-overview.html">Dashboard</a>
                                 <a class="dropdown-item" href="couple-dashboard-mywishlist.html">My Wishlist </a>
                                 <a class="dropdown-item" href="couple-dashboard-todolist-2.html">To Do List</a>
-                                <a class="dropdown-item" href="couple-dashboard-budget.html">Budget</a>
+                                <a class="dropdown-item" href="couple-dashboard-budget.jsp">Budget</a>
                                 <a class="dropdown-item" href="couple-dashboard-guest-manager.html">Guestlist </a>
                                 <a class="dropdown-item" href="couple-dashboard-table-planner.html">Seating Table </a>
                                 <a class="dropdown-item" href="couple-dashboard-profile.html">My Profile </a>
@@ -78,7 +78,7 @@
                     <li><a href="couple-dashboard-overview.html"><span class="dash-nav-icon"><i class="fas fa-compass"></i></span>Dashboard</a></li>
                     <li><a href="couple-dashboard-mywishlist.html"><span class="dash-nav-icon"><i class="fas fa-heart"></i> </span> My Wishlist </a></li>
                     <li><a href="couple-dashboard-todolist-2.html"><span class="dash-nav-icon"><i class="fas fa-list-ul"></i></span>To Do List</a></li>
-                    <li><a href="couple-dashboard-budget.html"><span class="dash-nav-icon"><i class="fas fa-calculator"></i></span>Budget</a></li>
+                    <li><a href="couple-dashboard-budget.jsp"><span class="dash-nav-icon"><i class="fas fa-calculator"></i></span>Budget</a></li>
                     <li class="active"><a href="couple-dashboard-guest-manager.html"><span class="dash-nav-icon"><i class="fas fa-users"></i></span>Guestlist </a></li>
                     <li><a href="couple-dashboard-table-planner.html"><span class="dash-nav-icon"><i class="fas fa-table"></i></span>Seating Table </a></li>
                     <li><a href="couple-dashboard-website.html"><span class="dash-nav-icon"><i class="fas fa-link"></i></span>Wedding Website </a></li>
@@ -424,5 +424,5 @@
 </body>
 
 
-<!-- Mirrored from jituchauhan.com/real-wed/realwed/couple-dashboard-add-new-guest.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:40:44 GMT -->
+<!-- Mirrored from jituchauhan.com/real-wed/realwed/couple-dashboard-add-new-guest.jsp by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:40:44 GMT -->
 </html>

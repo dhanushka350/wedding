@@ -2,17 +2,17 @@
 <html lang="en">
 
 
-<!-- Mirrored from jituchauhan.com/real-wed/realwed/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:39:50 GMT -->
+<!-- Mirrored from jituchauhan.com/real-wed/realwed/contact-us.jsp by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:40:14 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>RealWed | Wedding Vendor & Supplier Directory HTML Template - About us</title>
+    <title>RealWed | Wedding Vendor & Supplier Directory HTML Template - Contact us</title>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!-- Google Fonts -->
-   <link href="https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
     <!-- FontAwesome icon -->
     <link href="fontawesome/css/fontawesome-all.css" rel="stylesheet">
     <!-- Fontello icon -->
@@ -41,14 +41,14 @@
                 </div>
                 <div class="col-xl-6 col-lg-6 col-sm-6 col-md-6 col-sm-12 col-12">
                     <div class="header-text text-right">
-                        <p>Are You Vendor?<a href="vendor-form.html" class="text-white">List Your Business</a></p>
+                        <p>Are You Vendor ? <a href="vendor-form.html" class="text-white">List Your Business</a></p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
     <!--/.header-top -->
-    <!-- header -->
+   <!-- header -->
     <div class="header">
         <div class="container">
             <div class="row">
@@ -60,7 +60,7 @@
                     <!-- /.header-logo -->
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
-                     <!-- navigations -->
+                 <!-- navigations -->
                     <div id="navigation">
                         <ul>
                             <li><a href="#" title="#">Homepages</a>
@@ -110,14 +110,14 @@
                                 <ul>
                                     <li><a href="#" title="">Blog Listing</a>
                                     <ul>
-                                        <li><a href="blog-listing.html" title="">Listing</a></li>
-                                        <li><a href="blog-classic.html" title="">Classic</a></li>
+                                        <li><a href="blog-listing.jsp" title="">Listing</a></li>
+                                        <li><a href="blog-classic.jsp" title="">Classic</a></li>
                                     </ul>
                                     </li>
                                     <li><a href="#" title="">Blog Single</a>
                                     <ul>
-                                        <li><a href="blog-single.html" title="">Blog Single</a></li>
-                                        <li><a href="blog-full-screen-single.html" title="">Blog Single Full Screen</a></li>
+                                        <li><a href="blog-single.jsp" title="">Blog Single</a></li>
+                                        <li><a href="blog-full-screen-single.jsp" title="">Blog Single Full Screen</a></li>
                                     </ul>
                                     </li>
                                 </ul>
@@ -126,12 +126,12 @@
                                 <ul>
                                     <li><a href="#" title="">Pages</a>
                                         <ul>
-                                            <li><a href="about-us.html" title="">About us</a></li>
+                                            <li><a href="about-us.jsp" title="">About us</a></li>
                                             <li><a href="team-page.html" title="">Meet the Team</a></li>
                                             <li><a href="pricing.html" title="">Pricing</a></li>
                                             <li><a href="error-404.html" title="">404</a></li>
                                             <li><a href="faq.html" title="">FAQ's</a></li>
-                                            <li><a href="contact-us.html" title="">Contact us</a></li>
+                                            <li><a href="contact-us.jsp" title="">Contact us</a></li>
                                             <li><a href="vendor-location.html" title="">Vendor Locations</a></li></ul>
                                     </li>
                                     <li><a href="#" title="">Forms</a>
@@ -155,7 +155,7 @@
                                             <li><a href="email-template/forgot-password.html" title="">Forgot Password</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="components.html" title="">Components</a></li>
+                                    <li><a href="components.jsp" title="">Components</a></li>
                                 </ul>
                             </li>
                             <li><a href="#" title="">User Panel</a>
@@ -176,9 +176,9 @@
                                             <li><a href="couple-dashboard-overview.html" title="">Dashboard</a></li>
                                             <li><a href="couple-dashboard-mywishlist.html" title="">My Listing</a></li>
                                             <li><a href="couple-dashboard-todolist.html" title="">To Do List</a></li>
-                                            <li><a href="couple-dashboard-budget.html" title="">Budget</a></li>
+                                            <li><a href="couple-dashboard-budget.jsp" title="">Budget</a></li>
                                             <li><a href="couple-dashboard-guest-manager.html" title="">Guest Manager</a></li>
-                                            <li><a href="couple-dashboard-add-new-guest.html" title="">Add New Guest</a></li>
+                                            <li><a href="couple-dashboard-add-new-guest.jsp" title="">Add New Guest</a></li>
                                             <li><a href="couple-dashboard-table-planner.html" title="">Seating Table</a></li>
                                             <li><a href="couple-dashboard-profile.html" title="">   Profile</a></li>
                                         </ul>
@@ -208,7 +208,7 @@
                 <!-- page caption -->
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
                     <div class="page-caption">
-                        <h1 class="page-title">About us</h1>
+                        <h1 class="page-title">Contact us</h1>
                     </div>
                 </div>
                 <!-- /.page caption -->
@@ -222,7 +222,7 @@
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="#" class="breadcrumb-link">Home</a></li>
                             <li class="breadcrumb-item"><a href="#" class="breadcrumb-link">Pages</a></li>
-                            <li class="breadcrumb-item active text-white" aria-current="page">About us</li>
+                            <li class="breadcrumb-item active text-white" aria-current="page">Contact us</li>
                         </ol>
                     </nav>
                 </div>
@@ -231,227 +231,151 @@
         <!-- page breadcrumb -->
     </div>
     <!-- /.page-header -->
-    <!-- about-descriptions -->
-    <div class="space-medium pb-0">
+    <!-- contact-form -->
+    <div class="content">
         <div class="container">
             <div class="row">
-                <!--  about-details  -->
                 <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12 mb60">
-                    <div class="about-descriptions text-center">
-                        <div class="circle-icon rounded-circle bg-default mb30">
-                            <i class="icon-051-balloons"></i>
-                        </div>
-                        <h2>A Vision Beyond Your Dreams</h2>
-                        <p class="lead">Founded in 2015, RealWed is online wedding directory. Elit sed lectus molestie dictum. Integer vehicula malesuada euismod. Vivamus tellus to id massa quis, pretium convallis augue. Phasellus efficitur aumetus ullamcs tempor erat quis accumsan simple dummy content.</p>
+                    <!-- contact-section-title -->
+                    <div class="text-center">
+                        <p class="lead">We would like to talk with you, Talk to us and we'll show you what we’ve done, and what we can do for you.
+                        </p>
                     </div>
+                    <!-- /.contact-section-title -->
                 </div>
-            </div>
-        </div>
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 pl-xl-0 pr-xl-0">
-                    <div class="card-group">
-                        <div class="card">
-                            <div class="card-body metrics">
-                                <h1 class="metrics-title">Founded in</h1>
-                                <h2 class="metrics-subtitle">2015</h2>
+                <div class="offset-xl-3 col-xl-6 offset-lg-3 col-lg-6 col-md-12 col-sm-12 col-12">
+                    <form action="https://jituchauhan.com/real-wed/realwed/contactus.php" method="post">
+                        <!-- form -->
+                        <div class="contact-form">
+                            <div class="row">
+                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 mb10 ">
+                                    <h3>Get in touch</h3>
+                                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 ">
+                                    <!-- Text input-->
+                                    <div class="form-group service-form-group">
+                                        <label class="control-label sr-only" for="fname"></label>
+                                        <input id="fname" type="text" name="fname" placeholder="First Name" class="form-control" required>
+                                    </div>
+                                </div>
+                                <!-- Text input-->
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12  ">
+                                    <div class="form-group service-form-group">
+                                        <label class="control-label sr-only" for="lname"></label>
+                                        <input id="lname" type="text" name="lname" placeholder="Last Name" class="form-control" required>
+                                    </div>
+                                </div>
+                                <!-- Text input-->
+                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
+                                    <div class="form-group service-form-group">
+                                        <label class="control-label sr-only" for="email"></label>
+                                        <input id="email" type="email" name="email" placeholder="Email" class="form-control" required>
+                                    </div>
+                                </div>
+                                <!-- Text input-->
+                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
+                                    <div class="form-group service-form-group">
+                                        <label class="control-label sr-only" for="phone"></label>
+                                        <input id="phone" type="text" name="phone" placeholder="Phone" class="form-control" required>
+                                    </div>
+                                </div>
+                                <!-- select -->
+                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
+                                    <div class="form-group">
+                                        <select class="wide mb20" name="purpose">
+                                            <option value="Vendor Purpose">Vendor Purpose</option>
+                                            <option value="Couple">Couple</option>
+                                            <option value="Pricing">Pricing</option>
+                                            <option value="Vendor">Vendor</option>
+                                            <option value="Advertise with us">Advertise with us</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
+                                    <!-- textarea -->
+                                    <div class="form-group">
+                                        <label class="control-label sr-only" for="message"></label>
+                                        <textarea class="form-control" id="message" name="message" rows="3" placeholder="Messages"></textarea>
+                                    </div>
+                                </div>
+                                <!--button -->
+                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
+                                    <button type="submit" name="singlebutton" class="btn btn-default">submit</button>
+                                </div>
                             </div>
                         </div>
-                        <div class="card">
-                            <div class="card-body metrics">
-                                <h1 class="metrics-title ">City</h1>
-                                <h2 class="metrics-subtitle ">13000</h2>
-                            </div>
-                        </div>
-                        <div class="card ">
-                            <div class="card-body metrics">
-                                <h1 class="metrics-title">Our Team</h1>
-                                <h2 class="metrics-subtitle">45+</h2>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="space-medium">
-        <div class="container">
-            <div class="row">
-                <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12 text-center">
-                    <div class="section-title">
-                        <h2>What we do</h2>
-                        <p>Sed iaculis elit sed lectus molestie dictum. Integer vehicula malesuada euismod. Vivamus tellus tortor, accumsan id massa quis.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 text-center">
-                    <div class="feature-block">
-                        <div class="circle-icon bg-info rounded-circle mb30">
-                            <i class="icon-038-bouquet"></i>
-                        </div>
-                        <div class="feature-content">
-                            <h3>Hire the right vendor</h3>
-                            <p>Sed iaculis elit sed lectus molestie dictger vehicullesuada euismod. Vivamus tellusassa quis, pretium convallis augue. </p>
-                            <a href="#" class="btn btn-outline-default">find now</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 text-center">
-                    <div class="feature-block">
-                        <div class="circle-icon bg-danger rounded-circle mb30">
-                            <i class="icon-013-calendar"></i>
-                        </div>
-                        <div class="feature-content">
-                            <h3>Wedding Planning Tools</h3>
-                            <p>Phasellus efficitur auctor felis, sit amet aliquet metus ullamcorper at. Aliquam rhoncus tempor erat quis accumsan. </p>
-                            <a href="#" class="btn btn-outline-default">Star Your Planning</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 text-center">
-                    <div class="feature-block">
-                        <div class="circle-icon bg-secondary rounded-circle mb30">
-                            <i class="icon-021-love-1"></i>
-                        </div>
-                        <div class="feature-content">
-                            <h3>Wedding Tips & advice</h3>
-                            <p>Vivamus tellus tortor, accumsan id massa quis, pretium convallis augue. Aliquam rhoncus tempor erat quis accumsan.</p>
-                            <a href="#" class="btn btn-outline-default">read our articles</a>
-                        </div>
-                    </div>
+                        <!-- /.form -->
+                    </form>
                 </div>
             </div>
         </div>
     </div>
-    <!-- /.feature-section -->
+    <!-- /.contact-form -->
+    <!-- contact-map -->
+    <div id="map"></div>
+    <!-- /.contact-map -->
+    <!-- contact-block-section -->
     <div class="space-medium bg-white">
         <div class="container">
             <div class="row">
-                <div class="offset-xl-1 col-xl-10 offset-lg-1 col-lg-10 col-md-12 col-sm-12 col-12 ">
-                    <div class="section-title">
-                        <h2>Core Values</h2>
-                        <p>Sed iaculis elit sed lectus molestie dictum. Integer vehicula malesuada euismod.
-                            <br> Vivamus tellus tortor, accumsan id massa quis.</p>
+                <!-- contact-block -->
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                    <div class="contact-block">
+                        <div class="contact-icon"><i class="far fa-user-circle"></i></div>
+                        <div class="contact-content">
+                            <h3>Customer Support</h3>
+                            <p>Call our 24-hour helpline.</p>
+                            <p><strong>Phone number:</strong><span class="text-default"> +800-123-4567</span>
+                                <br> <strong>Email Us:</strong><span class="text-default"> info@realwed.com</span></p>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="row">
-                <div class="offset-xl-1 col-xl-10 offset-lg-1 col-lg-10 col-md-12 col-sm-12 col-12 ">
-                    <ul class="list-group list-group-flush value-section">
-                        <li class="list-group-item pl-0 pr-0">
-                            <div class="row">
-                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
-                                    <h3 class="heading-btm-line">Leadership</h3>
-                                </div>
-                                <div class="col-xl-8 col-lg-8 col-md-6 col-sm-12 col-12">
-                                    <p><strong>The courage to shape a better future.</strong> Phasellus efficitur auctor felis, sit amet aliquet metus ullamcorper at. Aliquam rhoncus tempor erat quis accumsan.</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="list-group-item pl-0 pr-0">
-                            <div class="row">
-                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
-                                    <h3 class="heading-btm-line">Perfactions</h3>
-                                </div>
-                                <div class="col-xl-8 col-lg-8 col-md-6 col-sm-12 col-12">
-                                    <p>Phasellus efficitur auctor felis, <strong>sit amet aliquet metus ullamcorper at</strong>. Aliquam rhoncus tempor erat quis accumsan.</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="list-group-item pl-0 pr-0">
-                            <div class="row">
-                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
-                                    <h3 class="heading-btm-line">Focus on Impact</h3>
-                                </div>
-                                <div class="col-xl-8 col-lg-8 col-md-6 col-sm-12 col-12">
-                                    <p>Fusce nec arcu ipsum. Aenean sit amet ante ante. <strong>Nulla ultricies vehicula purus id malesuada</strong>.</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="list-group-item pl-0 pr-0">
-                            <div class="row">
-                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
-                                    <h3 class="heading-btm-line">Create a Cluture</h3>
-                                </div>
-                                <div class="col-xl-8 col-lg-8 col-md-6 col-sm-12 col-12">
-                                    <p>Phasellus efficitur auctor felis, sit <strong>amet aliquet metus ullamcorper at</strong>. Aliquam rhoncus tempor erat quis accumsan.</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="list-group-item pl-0 pr-0">
-                            <div class="row">
-                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
-                                    <h3 class="heading-btm-line">Supporting Sustainability</h3>
-                                </div>
-                                <div class="col-xl-8 col-lg-8 col-md-6 col-sm-12 col-12">
-                                    <p>Maecenas commodo erat sit amet luctus aliquet. <strong>Maecenas ut mauris id orci lobortis tincidunt</strong>.</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="list-group-item pl-0 pr-0">
-                            <div class="row">
-                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
-                                    <h3 class="heading-btm-line">Passion</h3>
-                                </div>
-                                <div class="col-xl-8 col-lg-8 col-md-6 col-sm-12 col-12">
-                                    <p>Nullam placerat, leo at vulputate iaculis, <strong>arcu dolor eleifend lorem, sed sodales</strong> ligula sem ornare ligula.</p>
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
+                <!-- /.contact-block -->
+                <!-- contact-block -->
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                    <div class="contact-block">
+                        <div class="contact-icon"><i class="fa fa-map-marker-alt"></i></div>
+                        <div class="contact-content">
+                            <h3>Our Address</h3>
+                            <p>Our offices are located in the Georgia. </p>
+                            <p><strong>Address:</strong> 4998 Elk Creek Road
+                                <br> Canton, GA 30114
+                            </p>
+                        </div>
+                    </div>
                 </div>
+                <!-- /.contact-block -->
+                <!-- contact-block -->
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                    <div class="contact-block">
+                        <div class="contact-icon"><i class="far fa-envelope"></i></div>
+                        <div class="contact-content">
+                            <h3>Other Enquiries</h3>
+                            <p>Please contact us at the email below for all other inquiries.</p>
+                            <p><strong>Email Us:</strong> <span class="text-default">info@realwed.com</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.contact-block -->
             </div>
         </div>
     </div>
-    <div class="space-medium">
-        <div class="container ">
-            <div class="row ">
-                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 ">
-                    <div class="card">
-                        <div class="card-body">
-                            <h3 class="">Work with us - Career</h3>
-                            <div class="mb20">
-                                <img src="images/workplace-img-1.jpg" alt="" class="img-fluid">
-                            </div>
-                            <p>Nullam placerat, leo at vulputate iaculis, arcu dolor eleifend lorem, sed sodales ligula sem ornare ligula.</p>
-                        </div>
-                        <div class="card-footer">
-                            <a href="#" class="btn-default-link">Our Open Position</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 ">
-                    <div class="card">
-                        <div class="card-body">
-                            <h3 class="">Our Leadership Principles</h3>
-                            <div class="mb20">
-                                <img src="images/workplace-img-2.jpg" alt="" class="img-fluid">
-                            </div>
-                            <p>Arcu dolor eleifend loremullam placerat, leo at vulputat a sed sodales ligula sem ornare ligulaculis.</p>
-                        </div>
-                        <div class="card-footer">
-                            <a href="#" class="btn-default-link">Meet The Team</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <!-- /.contact-block-section -->
     <!-- social-media-section -->
-    <div class="social-media-block ">
-        <div class="container ">
-            <div class="row ">
-                <div class="col-xl-7 col-lg-7 col-md-6 col-sm-12 col-12 ">
-                    <h3 class="text-white mb0 mt10 ">Would you like to connect with us</h3>
+    <div class="social-media-block">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-7 col-lg-7 col-md-6 col-sm-12 col-12">
+                    <h3 class="text-white mb0 mt10">Would you like to connect with us</h3>
                 </div>
-                <div class="col-xl-5 col-lg-5 col-md-6 col-sm-12 col-12 text-right ">
-                    <div class="social-icons ">
-                        <a href="# " class="icon-square "><i class="fab fa-facebook-f "></i></a>
-                        <a href="# " class="icon-square "><i class="fab fa-twitter "></i> </a>
-                        <a href="# " class="icon-square "><i class="fab fa-google-plus-g "></i></a>
-                        <a href="# " class="icon-square "><i class="fab fa-instagram "></i></a>
-                        <a href="# " class="icon-square "><i class="fab fa-youtube "></i></a>
+                <div class="col-xl-5 col-lg-5 col-md-6 col-sm-12 col-12 text-right">
+                    <div class="social-icons">
+                        <a href="#" class="icon-square"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#" class="icon-square"><i class="fab fa-twitter"></i> </a>
+                        <a href="#" class="icon-square"><i class="fab fa-google-plus-g"></i></a>
+                        <a href="#" class="icon-square"><i class="fab fa-instagram"></i></a>
+                        <a href="#" class="icon-square"><i class="fab fa-youtube"></i></a>
                     </div>
                 </div>
             </div>
@@ -459,55 +383,55 @@
     </div>
     <!-- /.social-media-section -->
     <!-- footer-section -->
-    <div class="footer ">
-        <div class="container ">
-            <div class="row ">
-                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12 ">
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
                     <!-- footer-widget -->
-                    <div class="footer-widget ">
-                        <a href="# "><img src="images/footer-logo.png" alt=" " class="mb20 "></a>
-                        <p class="mb10 ">Vestibulum ante elit, convallis quis nibh in, vulputate rhoncus massa. In hac habitasse platea dictumst.</p>
+                    <div class="footer-widget">
+                        <a href="#"><img src="images/footer-logo.png" alt="" class="mb20"></a>
+                        <p class="mb10">Vestibulum ante elit, convallis quis nibh in, vulputate rhoncus massa. In hac habitasse platea dictumst.</p>
                         <p>In hac habitasse platea dictumst simple dummy content here.</p>
                     </div>
                 </div>
                 <!-- /.footer-widget -->
                 <!-- footer-widget -->
-                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-12 ">
-                    <div class="footer-widget ">
-                        <h3 class="widget-title ">
+                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-12">
+                    <div class="footer-widget">
+                        <h3 class="widget-title">
                             Contact Address
                         </h3>
                         <p>4998 Elk Creek Road Canton,
                             <br> GA 30114</p>
-                        <p class="mb0 text-default ">+0-800-1234-123</p>
-                        <p class="mb0 text-default ">info@realwed.com</p>
+                        <p class="mb0 text-default">+0-800-1234-123</p>
+                        <p class="mb0 text-default">info@realwed.com</p>
                     </div>
                 </div>
                 <!-- /.footer-widget -->
                 <!-- footer-widget -->
-                <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6 col-12 ">
-                    <div class="footer-widget ">
-                        <h3 class="widget-title ">
+                <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6 col-12">
+                    <div class="footer-widget">
+                        <h3 class="widget-title">
                             About Company
                         </h3>
-                        <ul class="listnone ">
-                            <li><a href="# ">About us</a></li>
-                            <li><a href="# ">Contact us</a></li>
-                            <li><a href="# ">Faq</a></li>
-                            <li><a href="# ">Pricing Plan</a></li>
-                            <li><a href="# ">Meet The Team</a></li>
+                        <ul class="listnone">
+                            <li><a href="#">About us</a></li>
+                            <li><a href="#">Contact us</a></li>
+                            <li><a href="#">Faq</a></li>
+                            <li><a href="#">Pricing Plan</a></li>
+                            <li><a href="#">Meet The Team</a></li>
                         </ul>
                     </div>
                 </div>
                 <!-- /.footer-widget -->
                 <!-- /.footer-widget -->
-                <div class="col-xl-3 col-lg-3 col-md-12 col-sm-6 col-12 ">
-                    <div class="footer-widget ">
-                        <h3 class="widget-title ">
+                <div class="col-xl-3 col-lg-3 col-md-12 col-sm-6 col-12">
+                    <div class="footer-widget">
+                        <h3 class="widget-title">
                             List you Business
                         </h3>
                         <p>Are you vendor ? List your venue and service get more from listing business.</p>
-                        <a href="# " class="btn btn-default ">List your Business</a>
+                        <a href="#" class="btn btn-default">List your Business</a>
                     </div>
                 </div>
                 <!-- /.footer-widget -->
@@ -515,10 +439,10 @@
         </div>
     </div>
     <!-- tiny-footer-section -->
-    <div class="tiny-footer ">
-        <div class="container ">
-            <div class="row ">
-                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 text-right ">
+    <div class="tiny-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 text-right">
                     <p>© 2018 RealWed. All Rights Reserved.</p>
                 </div>
             </div>
@@ -531,10 +455,32 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
     <script src="js/menumaker.min.js"></script>
+    <!-- nice-select -->
+    <script src="js/jquery.nice-select.min.js"></script>
+    <script src="js/fastclick.js"></script>
     <script src="js/custom-script.js"></script>
+    <script>
+    function initMap() {
+        var uluru = {
+            lat: 23.0732195,
+            lng: 72.5646902
+        };
+        var map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 17,
+            center: uluru
+        });
+        var marker = new google.maps.Marker({
+            position: uluru,
+            map: map,
+            icon: 'images/map-pin.png'
+        });
+    }
+    </script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCvZiQwPXkkIeXfAn-Cki9RZBj69mg-95M&amp;callback=initMap">
+    </script>
     <script src="js/return-to-top.js"></script>
 </body>
 
 
-<!-- Mirrored from jituchauhan.com/real-wed/realwed/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:39:51 GMT -->
+<!-- Mirrored from jituchauhan.com/real-wed/realwed/contact-us.jsp by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:40:14 GMT -->
 </html>
