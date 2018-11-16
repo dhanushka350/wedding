@@ -2,17 +2,17 @@
 <html lang="en">
 
 
-<!-- Mirrored from jituchauhan.com/real-wed/realwed/contact-us.jsp by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:40:14 GMT -->
+<!-- Mirrored from jituchauhan.com/real-wed/realwed/pricing.jsp by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:40:07 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>RealWed | Wedding Vendor & Supplier Directory HTML Template - Contact us</title>
+    <title>RealWed | Wedding Vendor & Supplier Directory HTML Template - Pricing</title>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
+   <link href="https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
     <!-- FontAwesome icon -->
     <link href="fontawesome/css/fontawesome-all.css" rel="stylesheet">
     <!-- Fontello icon -->
@@ -24,9 +24,9 @@
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
 </head>
 
 <body>
@@ -48,7 +48,7 @@
         </div>
     </div>
     <!--/.header-top -->
-   <!-- header -->
+    <!-- header -->
     <div class="header">
         <div class="container">
             <div class="row">
@@ -60,7 +60,7 @@
                     <!-- /.header-logo -->
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
-                 <!-- navigations -->
+                       <!-- navigations -->
                     <div id="navigation">
                         <ul>
                             <li><a href="#" title="#">Homepages</a>
@@ -131,8 +131,9 @@
                                             <li><a href="pricing.jsp" title="">Pricing</a></li>
                                             <li><a href="error-404.jsp" title="">404</a></li>
                                             <li><a href="faq.jsp" title="">FAQ's</a></li>
-                                            <li><a href="contact-us.jsp" title="">Contact us</a></li>
-                                            <li><a href="vendor-location.jsp" title="">Vendor Locations</a></li></ul>
+                                              <li><a href="contact-us.jsp" title="">Contact us</a></li>
+                                            <li><a href="vendor-location.jsp" title="">Vendor Locations</a></li>
+                                        </ul>
                                     </li>
                                     <li><a href="#" title="">Forms</a>
                                         <ul>
@@ -208,7 +209,7 @@
                 <!-- page caption -->
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
                     <div class="page-caption">
-                        <h1 class="page-title">Contact us</h1>
+                        <h1 class="page-title">Pricing</h1>
                     </div>
                 </div>
                 <!-- /.page caption -->
@@ -222,7 +223,7 @@
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="#" class="breadcrumb-link">Home</a></li>
                             <li class="breadcrumb-item"><a href="#" class="breadcrumb-link">Pages</a></li>
-                            <li class="breadcrumb-item active text-white" aria-current="page">Contact us</li>
+                            <li class="breadcrumb-item active text-white" aria-current="page">Pricing</li>
                         </ol>
                     </nav>
                 </div>
@@ -231,137 +232,168 @@
         <!-- page breadcrumb -->
     </div>
     <!-- /.page-header -->
-    <!-- contact-form -->
+    <!-- price-sections -->
     <div class="content">
         <div class="container">
             <div class="row">
-                <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12 mb60">
-                    <!-- contact-section-title -->
-                    <div class="text-center">
-                        <p class="lead">We would like to talk with you, Talk to us and we'll show you what we’ve done, and what we can do for you.
-                        </p>
-                    </div>
-                    <!-- /.contact-section-title -->
-                </div>
-                <div class="offset-xl-3 col-xl-6 offset-lg-3 col-lg-6 col-md-12 col-sm-12 col-12">
-                    <form action="https://jituchauhan.com/real-wed/realwed/contactus.php" method="post">
-                        <!-- form -->
-                        <div class="contact-form">
-                            <div class="row">
-                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 mb10 ">
-                                    <h3>Get in touch</h3>
+                <div class="offset-xl-1 col-xl-10 offset-lg-1 col-lg-10 col-md-12 col-sm-12 col-12">
+                    <div class="row">
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                            <div class="pricing-box pricing-basic">
+                                <!-- pricing box -->
+                                <h4 class="pricing-name">Basic</h4>
+                                <div class="price">FREE</div>
+                                <div class="price-feature">
+                                    <ul class="listnone">
+                                        <li>1 Listing</li>
+                                        <li>30 Days availability</li>
+                                        <li>No Featured Listing</li>
+                                        <li>Email Support</li>
+                                    </ul>
                                 </div>
-                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 ">
-                                    <!-- Text input-->
-                                    <div class="form-group service-form-group">
-                                        <label class="control-label sr-only" for="fname"></label>
-                                        <input id="fname" type="text" name="fname" placeholder="First Name" class="form-control" required>
-                                    </div>
-                                </div>
-                                <!-- Text input-->
-                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12  ">
-                                    <div class="form-group service-form-group">
-                                        <label class="control-label sr-only" for="lname"></label>
-                                        <input id="lname" type="text" name="lname" placeholder="Last Name" class="form-control" required>
-                                    </div>
-                                </div>
-                                <!-- Text input-->
-                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
-                                    <div class="form-group service-form-group">
-                                        <label class="control-label sr-only" for="email"></label>
-                                        <input id="email" type="email" name="email" placeholder="Email" class="form-control" required>
-                                    </div>
-                                </div>
-                                <!-- Text input-->
-                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
-                                    <div class="form-group service-form-group">
-                                        <label class="control-label sr-only" for="phone"></label>
-                                        <input id="phone" type="text" name="phone" placeholder="Phone" class="form-control" required>
-                                    </div>
-                                </div>
-                                <!-- select -->
-                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
-                                    <div class="form-group">
-                                        <select class="wide mb20" name="purpose">
-                                            <option value="Vendor Purpose">Vendor Purpose</option>
-                                            <option value="Couple">Couple</option>
-                                            <option value="Pricing">Pricing</option>
-                                            <option value="Vendor">Vendor</option>
-                                            <option value="Advertise with us">Advertise with us</option>
-                                        </select>
-                                    </div>
-                                </div>
-                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
-                                    <!-- textarea -->
-                                    <div class="form-group">
-                                        <label class="control-label sr-only" for="message"></label>
-                                        <textarea class="form-control" id="message" name="message" rows="3" placeholder="Messages"></textarea>
-                                    </div>
-                                </div>
-                                <!--button -->
-                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
-                                    <button type="submit" name="singlebutton" class="btn btn-default">submit</button>
-                                </div>
+                                <a href="#" class="btn btn-primary">Get One Month Free</a>
                             </div>
+                            <!-- /.pricing box -->
                         </div>
-                        <!-- /.form -->
-                    </form>
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                            <div class="pricing-box pricing-standard">
+                                <!-- pricing box -->
+                                <h4 class="pricing-name">Pro</h4>
+                                <div class="price"><span class="price-sign">$</span> 10</div>
+                                <div class="price-feature">
+                                    <ul class="listnone">
+                                        <li>3 Listing</li>
+                                        <li>180 Days availability</li>
+                                        <li>1 Featured Listing</li>
+                                        <li>Priority Email Support</li>
+                                    </ul>
+                                </div>
+                                <a href="#" class="btn btn-white">Select Plan</a>
+                            </div>
+                            <!-- /.pricing box -->
+                        </div>
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                            <div class="pricing-box pricing-premium">
+                                <!-- pricing box -->
+                                <h4 class="pricing-name">Enterprise</h4>
+                                <div class="price"><span class="price-sign">$</span> 30</div>
+                                <div class="price-feature">
+                                    <ul class="listnone">
+                                        <li>5 Listing</li>
+                                        <li>360 Days availability</li>
+                                        <li>3 Featured Listing</li>
+                                        <li>Phone and Email Support</li>
+                                    </ul>
+                                </div>
+                                <a href="#" class="btn btn-primary">Select Plan</a>
+                            </div>
+                            <!-- /.pricing box -->
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
+        <!-- price-payments-sections -->
+        <div class="space-small">
+            <div class="container">
+                <div class="row">
+                    <div class="offset-xl-1 col-xl-10 offset-lg-1 col-lg-10 col-md-12 col-sm-12 col-12">
+                        <h2 class="text-center mb40">Trusted By Millions</h2>
+                        <div class="row">
+                            <!-- feature -->
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                <div class="well-box feature-left">
+                                    <div class="feature-icon"><img src="images/secure-payment.png" alt=""></div>
+                                    <div class="feature-content">
+                                        <h4 class="feature-title">Secure Payment</h4>
+                                        <p>Your information is protected by secure payment.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- /.feature -->
+                            <!-- feature -->
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                <div class="well-box feature">
+                                    <div class="">
+                                        <h4 class="feature-title">We accept all of the following credit cards.</h4>
+                                        <div class="mt10 payment-card">
+                                            <a href="#"><i class="fab fa-cc-visa fa-2x"></i></a>
+                                            <a href="#"><i class="fab fa-cc-mastercard fa-2x"></i></a>
+                                            <a href="#"> <i class="fab  fa-cc-paypal fa-2x"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- /.feature -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /.price-payments-sections -->
     </div>
-    <!-- /.contact-form -->
-    <!-- contact-map -->
-    <div id="map"></div>
-    <!-- /.contact-map -->
-    <!-- contact-block-section -->
+    <!-- /.price-sections -->
+    <!-- f/q sections -->
     <div class="space-medium bg-white">
         <div class="container">
             <div class="row">
-                <!-- contact-block -->
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
-                    <div class="contact-block">
-                        <div class="contact-icon"><i class="far fa-user-circle"></i></div>
-                        <div class="contact-content">
-                            <h3>Customer Support</h3>
-                            <p>Call our 24-hour helpline.</p>
-                            <p><strong>Phone number:</strong><span class="text-default"> +800-123-4567</span>
-                                <br> <strong>Email Us:</strong><span class="text-default"> info@realwed.com</span></p>
-                        </div>
+                <div class="col-xl-10 col-lg-10 col-md-12 col-sm-12 col-12">
+                    <div class="section-title">
+                        <!-- section title start-->
+                        <h2>Some Questions Might You Have</h2>
                     </div>
+                    <!-- /.section title start-->
                 </div>
-                <!-- /.contact-block -->
-                <!-- contact-block -->
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
-                    <div class="contact-block">
-                        <div class="contact-icon"><i class="fa fa-map-marker-alt"></i></div>
-                        <div class="contact-content">
-                            <h3>Our Address</h3>
-                            <p>Our offices are located in the Georgia. </p>
-                            <p><strong>Address:</strong> 4998 Elk Creek Road
-                                <br> Canton, GA 30114
-                            </p>
-                        </div>
-                    </div>
+            </div>
+            <div class="row">
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
+                    <ul class="listnone">
+                        <!-- faq-qa-block -->
+                        <li class="faq-qa-block">
+                            <h3>Why realwed wedding directory website template ?</h3>
+                            <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqu enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                        </li>
+                        <!-- /.faq-qa-block -->
+                        <!-- faq-qa-block -->
+                        <li class="faq-qa-block">
+                            <h3>What are the benefit of the premium plan?</h3>
+                            <p>Lorem ipsuim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                        </li>
+                        <!-- /.faq-qa-block -->
+                        <!-- faq-qa-block -->
+                        <li class="faq-qa-block">
+                            <h3>What are the benefit of the purchasing a yeraly plan?</h3>
+                            <p>Consectetim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                        </li>
+                        <!-- faq-qa-block -->
+                    </ul>
                 </div>
-                <!-- /.contact-block -->
-                <!-- contact-block -->
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
-                    <div class="contact-block">
-                        <div class="contact-icon"><i class="far fa-envelope"></i></div>
-                        <div class="contact-content">
-                            <h3>Other Enquiries</h3>
-                            <p>Please contact us at the email below for all other inquiries.</p>
-                            <p><strong>Email Us:</strong> <span class="text-default">info@realwed.com</span>
-                            </p>
-                        </div>
-                    </div>
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
+                    <ul class="listnone">
+                        <!-- faq-qa-block -->
+                        <li class="faq-qa-block">
+                            <h3>Can i cancel my subscription for premium plan?</h3>
+                            <p>Tempor incididunt ut labore et dolore magna aliquanim ad minim veniamquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                        </li>
+                        <!-- /.faq-qa-block -->
+                        <!-- faq-qa-block -->
+                        <li class="faq-qa-block">
+                            <h3>How do my pay for my premium plan?</h3>
+                            <p>Quis nostrud exercitation ullamco lorem ipusm doplor laboris nisi ut aliquip ex ea commodo consequat. </p>
+                        </li>
+                        <!-- /.faq-qa-block -->
+                        <!-- faq-qa-block -->
+                        <li class="faq-qa-block">
+                            <h3>Where can i find my billing information?</h3>
+                            <p>Quis nostrud exercitation ullamco laboris nisi ut aliquirem ipsum dolor sit ameonsectetim veniamex ea commodo consequat. </p>
+                        </li>
+                        <!-- /.faq-qa-block -->
+                    </ul>
                 </div>
-                <!-- /.contact-block -->
             </div>
         </div>
     </div>
-    <!-- /.contact-block-section -->
+    <!-- /.f/q sections -->
     <!-- social-media-section -->
     <div class="social-media-block">
         <div class="container">
@@ -455,32 +487,10 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
     <script src="js/menumaker.min.js"></script>
-    <!-- nice-select -->
-    <script src="js/jquery.nice-select.min.js"></script>
-    <script src="js/fastclick.js"></script>
     <script src="js/custom-script.js"></script>
-    <script>
-    function initMap() {
-        var uluru = {
-            lat: 23.0732195,
-            lng: 72.5646902
-        };
-        var map = new google.maps.Map(document.getElementById('map'), {
-            zoom: 17,
-            center: uluru
-        });
-        var marker = new google.maps.Marker({
-            position: uluru,
-            map: map,
-            icon: 'images/map-pin.png'
-        });
-    }
-    </script>
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCvZiQwPXkkIeXfAn-Cki9RZBj69mg-95M&amp;callback=initMap">
-    </script>
     <script src="js/return-to-top.js"></script>
 </body>
 
 
-<!-- Mirrored from jituchauhan.com/real-wed/realwed/contact-us.jsp by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:40:14 GMT -->
+<!-- Mirrored from jituchauhan.com/real-wed/realwed/pricing.jsp by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:40:12 GMT -->
 </html>

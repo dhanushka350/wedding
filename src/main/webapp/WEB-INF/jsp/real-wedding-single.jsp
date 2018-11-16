@@ -2,13 +2,13 @@
 <html lang="en">
 
 
-<!-- Mirrored from jituchauhan.com/real-wed/realwed/blog-classic.jsp by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:39:39 GMT -->
+<!-- Mirrored from jituchauhan.com/real-wed/realwed/real-wedding-single.jsp by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:39:28 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>RealWed | Wedding Vendor & Supplier Directory HTML Template - Blog Classic</title>
+    <title>RealWed | Wedding Vendor & Supplier Directory HTML Template - Real Wedding Single</title>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!-- Google Fonts -->
@@ -19,9 +19,6 @@
     <link href="fontello/css/fontello.css" rel="stylesheet">
     <!-- Favicon icon -->
     <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
-    <!-- OwlCarosuel CSS -->
-    <link href="css/owl.carousel.css" type="text/css" rel="stylesheet">
-    <link href="css/owl.theme.default.css" type="text/css" rel="stylesheet">
     <!-- Style CSS -->
     <link href="css/style.css" rel="stylesheet">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -39,7 +36,7 @@
             <div class="row">
                 <div class="col-xl-6 col-lg-6 col-sm-6 col-md-6 col-sm-6 col-6 d-none d-xl-block d-lg-block d-md-block">
                     <div class="header-text">
-                        <p class="wlecome-text">Welcome to Wedding Directory HTML Template.</p>
+                        <p class="wlecome-text"> Welcome to Wedding Directory HTML Template.</p>
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-sm-6 col-md-6 col-sm-12 col-12">
@@ -63,7 +60,7 @@
                     <!-- /.header-logo -->
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
-                   <!-- navigations -->
+      <!-- navigations -->
                     <div id="navigation">
                         <ul>
                             <li><a href="#" title="#">Homepages</a>
@@ -205,28 +202,25 @@
     </div>
     <!-- /.header -->
     <!-- page-header -->
-    <div class="page-header">
+    <div class="real-wedding-single-img">
         <div class="container">
             <div class="row">
-                <!-- page caption -->
-                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
-                    <div class="page-caption">
-                        <h1 class="page-title">Blog Classic</h1>
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 text-center">
+                    <div class="realwed-caption">
+                        <h1 class="real-wedding-single-title">Walter & Elizabeth</h1>
+                        <span class="real-wedding-date text-white">07 May, 2018</span>
+                        <span class="real-wedding-place ml-4 text-white"><i class="fas fa-map-marker-alt pr-2"></i>Surat, Gujarat,India</span>
                     </div>
                 </div>
-                <!-- /.page caption -->
             </div>
         </div>
         <!-- page caption -->
-        <div class="page-breadcrumb">
+        <div class="realwed-addressbar">
             <div class="container">
                 <div class="row">
-                    <nav aria-label="breadcrumb">
-                        <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="#" class="breadcrumb-link">Home</a></li>
-                            <li class="breadcrumb-item active text-white" aria-current="page">Blog Classic</li>
-                        </ol>
-                    </nav>
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                        <p><i class="fas fa-map-marker-alt pr-2"></i>637 West Fork Drive Deerfield Beach, Surat. <span class="ml-4">Wedding Theme: <strong>Traditional Cultural Wedding</strong></span></p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -237,267 +231,258 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 col-12">
-                    <div class="row">
-                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                            <div class="post-block">
-                                <!-- post vertical block -->
-                                <div class="post-img zoomimg">
-                                    <a href="#"><img src="images/post-img-classic-1.jpg" alt="" class="img-fluid"></a>
-                                </div>
-                                <div class="post-content">
-                                    <h2><a href="#" class="post-title">Happy Wedding Couple Walk Together </a></h2>
-                                    <p class="meta">
-                                        <span class="meta-posted-by">By <a href="#">Admin</a></span>
-                                        <span class="meta-date">08 May, 2018</span>
-                                        <span class="meta-comments text-primary">02 Comments</span>
-                                    </p>
-                                    <p>Donec sollicitudin luctus lorem a pharetra. Lorem ipsum dolor sit amet consectetur adipiscing elit. Cras felis elit lacinia ac eleifend sit amet facilisis idmi.</p>
-                                    <a href="#" class="btn-default-link">Read More</a>
+                    <div class="leftsocial-icon">
+                     <a href="#" class="icon-square-outline facebook-outline"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#" class="icon-square-outline twitter-outline"><i class="fab fa-twitter"></i> </a>
+                        <a href="#" class="icon-square-outline googleplus-outline"><i class="fab fa-google-plus-g"></i></a>
+                         <a href="#" class="icon-square-outline instagram-outline"><i class="fab fa-instagram"></i></a>
+                         <a href="#" class="icon-square-outline linkedin-outline"><i class="fab fa-linkedin-in"></i></a>
+                       <a href="#" class="icon-square-outline pinterest-outline"><i class="fab fa-pinterest-p"></i></a>
+                    </div>
+                    <div class="real-wedding-content bg-white border">
+                        <!-- real-wedding-story -->
+                        <div class="mb30">
+                            <h3>Our Story</h3>
+                            <p>Nulla euismod pellentesque sapien vitae vehiculam mattis tristique ipsum ac mativamus tincidunt augue one vitae lectus mollis temponec laciniaac odio quis congnec sem sapien pretium at nunc erdum blandit cursusivamus venenatis felis massa ut condimtum nisl lobort lorem ipusm dolor sit amrt We’re so excited to start the next phase of their lives together and <strong>can’t wait to celebrate with you in August!</strong> dignissim a eleifendorci dapibus. </p>
+                            <img src="images/real-wed-gallery-img-1.jpg" alt="">
+                            <!-- /.real-wedding-story -->
+                        </div>
+                        <div class="mb30">
+                            <h3>The Proposal</h3>
+                            <p>Vehiculam mattis tristique ipsum ac mativamusulla euismod pellentesque sapien vitae tincidunt augue one vitae lectus mollis temponec laciniaac odio quis congnec sem sapien pretium at nunc sitamet aliquet semper ligula. Sed interdum blandit cursusivamus venenatis felis massa ut condimtum nisl lobortis uted loremipsum sagittisace sapien et aliquonec dignissim lacus acurna dignissim a eleifendorci dapibus. </p>
+                            <img src="images/real-wed-gallery-img-2.jpg" alt="" class="mb10">
+                            <img src="images/real-wed-gallery-img-3.jpg" alt="" class="mb10">
+                            <img src="images/real-wed-gallery-img-4.jpg" alt="">
+                        </div>
+                        <div class="mb30">
+                            <h3>Venue</h3>
+                            <p>Mattis tristique ipsum ac mativamus tincidunt augue one vitae lectus mollis temponec laciniaac odio quis congnec sem sapien pretium at nunc sitamet aliquet semper ligula. Sed interdum blandit cursusivamus venenatis felis massa ut condimtum nisl lobortis uted loremipsum sagittisace Nulla euismod pellentesque sapien vitae vehiculam msapien et aliquonec dignissim lacus acurna dignissim a eleifendorci dapibus.</p>
+                            <h3>Standout Vendors</h3>
+                            <p>Sed interdum blandit cursusivamus venenatis felis massa ut condimtum nisl lobortis uted loremipsum sagittisace sapien et vitae lectus mollis temponec <span class="text-default">laciniaac odio quis congnec </span>sem sapien pretium at nuncsitamet aliquet semper ligula. Nulla euismod pellentesque sapien vitae vehiculam mattis tristique ipsum ac mativamus tincidunt augue one aliquonec dignissim lacus acurna dignissim a eleifendorci dapibus. </p>
+                            <img src="images/real-wed-gallery-img-5.jpg" alt="">
+                        </div>
+                        <div class="mb30 realwed-tags">
+                            <h3>Tags</h3>
+                            <a>real wedding</a><a>destination</a><a>Couple</a><a>Vendor</a>
+                        </div>
+                    </div>
+                    <div class="next-prev-post">
+                        <div class="row">
+                            <!-- prev-post -->
+                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
+                                <div class="prev-post">
+                                    <a href="#"><span class="pr-3"><i class="fas fa-angle-left"></i></span>Previous Real Wedding</a>
                                 </div>
                             </div>
-                            <!-- /.post vertical block -->
+                            <!--/.prev-post -->
+                            <!-- next-post -->
+                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
+                                <div class="next-post">
+                                    <a href="#">Next Real Wedding<span class="pl-3"><i class="fas fa-angle-right"></i></span></a>
+                                </div>
+                            </div>
+                            <!-- /.next-post -->
                         </div>
-                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                            <div class="post-block">
-                                <!-- post vertical block -->
-                                <div class="post-carousel">
-                                    <div class="post-owl owl-carousel owl-theme">
-                                        <div class="item">
-                                            <div class="post-img zoomimg">
-                                                <a href="#"><img src="images/post-img-classic-1.jpg" alt=""  class="img-fluid"></a>
-                                            </div>
+                    </div>
+                    <!-- /.real-wedding-grid -->
+                </div>
+                <!-- sidebar -->
+                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+                    <div class="sidebar ">
+                        <div class="card border card-shadow-none widget-vendor-list ">
+                            <div class="card-header bg-white">
+                                <h3 class="mb-0">Contributing Vendors</h3>
+                            </div>
+                            <div class="card-body vendor-sidebar-list">
+                                <h5 class="vendor-list-title">Wedding Theme</h5>
+                                <a href="#" class="vendor-list-link">Traditional Cultural Wedding</a>
+                            </div>
+                            <div class="card-body border-top vendor-sidebar-list">
+                                <h5 class="vendor-list-title">Venue:</h5>
+                                <a href="#" class="vendor-list-link">Black Canyon Inn</a>
+                            </div>
+                            <div class="card-body border-top vendor-sidebar-list">
+                                <h5 class="vendor-list-title">Photography:</h5>
+                                <a href="#" class="vendor-list-link">Davis Photographer</a>
+                            </div>
+                            <div class="card-body border-top vendor-sidebar-list">
+                                <h5 class="vendor-list-title">Makeup Artist:</h5>
+                                <a href="#" class="vendor-list-link">Maria Makeup Artist</a>
+                            </div>
+                            <div class="card-body border-top vendor-sidebar-list">
+                                <h5 class="vendor-list-title">Cake:</h5>
+                                <a href="#" class="vendor-list-link">Wedding Cake Creations </a>
+                            </div>
+                            <div class="card-body border-top vendor-sidebar-list">
+                                <h5 class="vendor-list-title">Dresses:</h5>
+                                <a href="#" class="vendor-list-link">Coco Wedding Dress </a>
+                            </div>
+                            <div class="card-body border-top vendor-sidebar-list">
+                                <h5 class="vendor-list-title">Entertainment:</h5>
+                                <a href="#" class="vendor-list-link">DJ Daniel Enterinment </a>
+                            </div>
+                            <div class="card-body border-top vendor-sidebar-list">
+                                <h5 class="vendor-list-title">Ceremony & Reception:</h5>
+                                <a href="#" class="vendor-list-link">Grazing</a>
+                            </div>
+                        </div>
+                        <div class="widget">
+                            <h3 class="widget-title">Recent Real Wedding</h3>
+                            <div class="recent-realwed">
+                                <div class="row">
+                                    <!-- real wedding block -->
+                                    <div class="col-xl-4">
+                                        <div class="real-wedding-img zoomimg">
+                                            <!-- real wedding img -->
+                                            <a href="#"><img src="images/real-wedding-img-1.jpg" alt="Wedding Vendor & Supplier Directory HTML Template "  class="img-fluid"></a>
                                         </div>
-                                        <div class="item">
-                                            <div class="post-img zoomimg">
-                                                <a href="#"><img src="images/post-img-classic-2.jpg" alt=""  class="img-fluid"></a>
-                                            </div>
-                                        </div>
-                                        <div class="item">
-                                            <div class="post-img zoomimg">
-                                                <a href="#"><img src="images/post-img-classic-3.jpg" alt=""  class="img-fluid"></a>
-                                            </div>
+                                    </div>
+                                    <div class="col-xl-8">
+                                        <!-- /.real wedding img -->
+                                        <div class="recent-realwed-content pl-0">
+                                            <!-- real wedding content -->
+                                            <h5 class="mb-1"><a href="#" class="title">Vanessa & Ryan</a></h5>
+                                            <div class="real-wedding-meta"><span class="real-wedding-date">07 May, 2018</span> </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="post-content">
-                                    <h2><a href="#" class="post-title">4 Things Every Bride To Be Needs To Hear </a></h2>
-                                    <p class="meta">
-                                        <span class="meta-posted-by">By <a href="#">Admin</a></span>
-                                        <span class="meta-date">08 May, 2018</span>
-                                        <span class="meta-comments text-primary">02 Comments</span>
-                                    </p>
-                                    <p>Morbi non odio ultricies, vestibulum lorem quis, imperdiet nulla. Aliquam nunc sem maximus vitae viverra id, rutrum ut magnaspendisse potenti.</p>
-                                    <a href="#" class="btn-default-link">Read More</a>
-                                </div>
+                                <!-- /.real wedding img -->
                             </div>
-                            <!-- /.post vertical block -->
-                        </div>
-                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                            <div class="post-block ">
-                                <!-- post vertical block -->
-                                <div class="embed-responsive embed-responsive-16by9">
-                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/C_clQDNk2fU" allowfullscreen></iframe>
+                            <div class="recent-realwed">
+                                <div class="row">
+                                    <!-- real wedding block -->
+                                    <div class="col-xl-4">
+                                        <div class="real-wedding-img zoomimg">
+                                            <!-- real wedding img -->
+                                            <a href="#"><img src="images/real-wedding-img-2.jpg" alt="Wedding Vendor & Supplier Directory HTML Template "  class="img-fluid"></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-8">
+                                        <!-- /.real wedding img -->
+                                        <div class="recent-realwed-content pl-0">
+                                            <!-- real wedding content -->
+                                            <h5 class="mb-1"><a href="#" class="title">Jaunita & John</a></h5>
+                                            <div class="real-wedding-meta"><span class="real-wedding-date">05 May, 2018</span> </div>
+                                        </div>
+                                    </div>
                                 </div>
-                                <div class="post-content">
-                                    <h2><a href="#" class="post-title">5 Ways To Stay Sweat Free On Your Big Day </a></h2>
-                                    <p class="meta">
-                                        <span class="meta-posted-by">By <a href="#">Admin</a></span>
-                                        <span class="meta-date">09 May, 2018</span>
-                                        <span class="meta-comments text-primary">02 Comments</span>
-                                    </p>
-                                    <p>Nunc urna arcu, semper vitae dapibus id, porttitor varius nisi. Donec tempus magna et arcu tincidunda metus auctoruncarcu faucibus vehicula in id turpis. </p>
-                                    <a href="#" class="btn-default-link">Read More</a>
-                                </div>
+                                <!-- /.real wedding img -->
                             </div>
-                            <!-- /.post vertical block -->
-                        </div>
-                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                            <div class="post-block">
-                                <!-- post vertical block -->
-                                <div class="post-img zoomimg">
-                                    <a href="#"><img src="images/post-img-classic-4.jpg" alt=""  class="img-fluid"></a>
+                            <div class="recent-realwed">
+                                <div class="row">
+                                    <!-- real wedding block -->
+                                    <div class="col-xl-4">
+                                        <div class="real-wedding-img zoomimg">
+                                            <!-- real wedding img -->
+                                            <a href="#"><img src="images/real-wedding-img-3.jpg" alt="Wedding Vendor & Supplier Directory HTML Template "  class="img-fluid"></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-8">
+                                        <!-- /.real wedding img -->
+                                        <div class="recent-realwed-content pl-0">
+                                            <!-- real wedding content -->
+                                            <h5 class="mb-1"><a href="#" class="title">Ronald & Stella</a></h5>
+                                            <div class="real-wedding-meta"><span class="real-wedding-date">04 May, 2018</span> </div>
+                                        </div>
+                                    </div>
                                 </div>
-                                <div class="post-content">
-                                    <h2><a href="#" class="post-title">Top 5 Wedding Friendly Cities in India </a></h2>
-                                    <p class="meta">
-                                        <span class="meta-posted-by">By <a href="#">Admin</a></span>
-                                        <span class="meta-date">07 May, 2018</span>
-                                        <span class="meta-comments text-primary">02 Comments</span>
-                                    </p>
-                                    <p>Quisque libero risus, laoreet eget tellus eu sollicitudin aliquam erat. In hac habitasse platea dictumst. Nunc malesuada fringilla lorem vel consectetur metus varius ut. </p>
-                                    <a href="#" class="btn-default-link">Read More</a>
-                                </div>
+                                <!-- /.real wedding img -->
                             </div>
-                            <!-- /.post vertical block -->
-                        </div>
-                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                            <div class="post-block">
-                                <div class="post-content text-left">
-                                    <!-- post vertical block -->
-                                    <blockquote>I am so clever that sometimes I don’t understand a single word of what I am saying.
-                                        <br>
-                                        <small class="text-dark mt20">– OSCAR WILD</small>
-                                    </blockquote>
+                            <div class="recent-realwed">
+                                <div class="row">
+                                    <!-- real wedding block -->
+                                    <div class="col-xl-4">
+                                        <div class="real-wedding-img zoomimg">
+                                            <!-- real wedding img -->
+                                            <a href="#"><img src="images/real-wedding-img-4.jpg" alt="Wedding Vendor & Supplier Directory HTML Template "  class="img-fluid"></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-8">
+                                        <!-- /.real wedding img -->
+                                        <div class="recent-realwed-content pl-0">
+                                            <!-- real wedding content -->
+                                            <h5 class="mb-1"><a href="#" class="title">Mary & Ronald</a></h5>
+                                            <div class="real-wedding-meta"><span class="real-wedding-date">03 May, 2018</span> </div>
+                                        </div>
+                                    </div>
                                 </div>
-                            </div>
-                            <!-- /.post vertical block -->
-                        </div>
-                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                            <div class="post-block">
-                                <!-- post vertical block -->
-                                <div class="post-content">
-                                    <h2><a href="#" class="post-title">Steps for Setting a Wedding Date in 2017 </a></h2>
-                                    <p class="meta">
-                                        <span class="meta-posted-by">By <a href="#">Admin</a></span>
-                                        <span class="meta-date">05 May, 2018</span>
-                                        <span class="meta-comments text-primary">02 Comments</span>
-                                    </p>
-                                    <p> Fusce dapibus tempor liguin mattis erosense dictum egenean simple dummy sitamet risus ipsum. </p>
-                                    <a href="#" class="btn-default-link">Read More</a>
-                                </div>
-                            </div>
-                            <!-- /.post vertical block -->
-                        </div>
-                        <!-- post paginations -->
-                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                            <div class="mb60 mt20">
-                                <nav aria-label="Page navigation example">
-                                    <ul class="pagination">
-                                        <li class="page-item"><a class="page-link" href="#">Previous</a></li>
-                                        <li class="page-item active"><a class="page-link" href="#">1</a></li>
-                                        <li class="page-item"><a class="page-link" href="#">2</a></li>
-                                        <li class="page-item"><a class="page-link" href="#">3</a></li>
-                                        <li class="page-item"><a class="page-link" href="#">Next</a></li>
-                                    </ul>
-                                </nav>
+                                <!-- /.real wedding img -->
                             </div>
                         </div>
-                        <!-- /.post paginations -->
+                        <div class="widget-banner">
+                            <div class="widget-banner-caption">
+                                <h3 class="text-white">Submit Your Real Wedding</h3>
+                                <p>Only 3 Step and submit your realwedding photos.</p>
+                                <a href="#" class="btn btn-default">submit now</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <!-- /. blog post -->
-                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
-                    <div class="sidebar">
-                        <div class="widget widget-search">
-                            <!-- widget-search -->
-                            <h3 class="widget-title">Search</h3>
-                            <div class="input-group mb-3">
-                                <input type="text" class="form-control" placeholder="search here" aria-label="search here" aria-describedby="button-addon2">
-                                <div class="input-group-append">
-                                    <button class="btn btn-default" type="button" id="button-addon2">Go</button>
-                                </div>
+                <!-- /.sidebar -->
+            </div>
+            <div class="row">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="section-block">
+                        <h2>You may also like..</h2>
+                    </div>
+                </div>
+               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
+                    <div class="real-wedding-block">
+                        <!-- real wedding block -->
+                        <div class="real-wedding-img zoomimg">
+                            <!-- real wedding img -->
+                            <a href="#"><img src="images/real-wedding-img-1.jpg" alt="Wedding Vendor & Supplier Directory HTML Template "  class="img-fluid"></a>
+                        </div>
+                        <!-- /.real wedding img -->
+                        <div class="real-wedding-content ">
+                            <!-- real wedding content -->
+                            <h3 class="real-wedding-title"><a href="#" class="title">Vanessa & Ryan</a></h3>
+                            <div class="real-wedding-meta"><span class="real-wedding-date">07 May, 2018</span> 
+                            <span class="real-wedding-place pl-3"><i class="fas fa-map-marker-alt pr-1"></i>Surat</span>
                             </div>
                         </div>
-                        <!-- /.widget -->
-                        <!-- widget-categories -->
-                        <div class="widget widget-category">
-                            <h3 class="widget-title">Category</h3>
-                            <ul class="angle">
-                                <li><a href="#">Photography</a></li>
-                                <li><a href="#">Wedding Planning</a></li>
-                                <li><a href="#">Flowers</a></li>
-                                <li><a href="#">Cakes</a></li>
-                                <li><a href="#">Catering</a></li>
-                            </ul>
-                        </div>
-                        <!-- /.widget-categories -->
-                        <!-- widget-recent-post -->
-                        <div class="widget widget-recent-post">
-                            <h3 class="widget-title">Recent Post</h3>
-                            <ul class="">
-                                <!-- recent-post-block -->
-                                <li>
-                                    <div class="row">
-                                        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-4">
-                                            <div class="recent-post-img zoomimg">
-                                                <a href="#"><img src="images/recent-post-img-1.jpg" alt=""></a>
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-8 col-lg-8 col-md-8 col-sm-8 col-8">
-                                            <div class="recent-post-content">
-                                                <h4 class="recent-title"><a href="#">Happy Couple Wedding Plan Usceeu Diam a Nisl Consequat</a></h4>
-                                                <p class="meta font-italic">02 Jun, 2018</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <!-- /.recent-post-block -->
-                                <!-- recent-post-block -->
-                                <li>
-                                    <div class="row">
-                                        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-4">
-                                            <div class="recent-post-img zoomimg">
-                                                <a href="#"><img src="images/recent-post-img-2.jpg" alt=""></a>
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-8 col-lg-8 col-md-8 col-sm-8 col-8">
-                                            <div class="recent-post-content">
-                                                <h4 class="recent-title"><a href="#">Top 4 Things Every Bride To Be Needs To Hear</a></h4>
-                                                <p class="meta font-italic">06 Jun, 2018</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <!-- /.recent-post-block -->
-                                <!-- recent-post-block -->
-                                <li>
-                                    <div class="row">
-                                        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-4">
-                                            <div class="recent-post-img zoomimg">
-                                                <a href="#"><img src="images/recent-post-img-3.jpg" alt=""></a>
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-8 col-lg-8 col-md-8 col-sm-8 col-8">
-                                            <div class="recent-post-content">
-                                                <h4 class="recent-title"><a href="#">5 Ways To Stay Sweat Free On Your Big Day</a></h4>
-                                                <p class="meta font-italic">07 Jun, 2018</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <!-- /.recent-post-block -->
-                                <!-- recent-post-block -->
-                                <li>
-                                    <div class="row">
-                                        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-4">
-                                            <div class="recent-post-img zoomimg">
-                                                <a href="#"><img src="images/recent-post-img-4.jpg" alt=""></a>
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-8 col-lg-8 col-md-8 col-sm-8 col-8">
-                                            <div class="recent-post-content">
-                                                <h4 class="recent-title"><a href="#">Top 5 Wedding Friendly Cities in India</a></h4>
-                                                <p class="meta font-italic">08 Jun, 2018</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <!-- /.recent-post-block -->
-                            </ul>
-                        </div>
-                        <!-- widget-archives -->
-                        <div class="widget widget-archives">
-                            <h3 class="widget-title">Archives</h3>
-                            <ul class="angle">
-                                <li><a href="#">September</a></li>
-                                <li><a href="#">August</a></li>
-                                <li><a href="#">July</a></li>
-                                <li><a href="#">June</a></li>
-                            </ul>
-                        </div>
-                        <!-- /.widget-archives -->
-                        <!-- widget-tags -->
-                        <div class="widget widget-tags">
-                            <h3 class="widget-title">Tags</h3>
-                            <a href="#">Wedding</a>
-                            <a href="#">Wedding Venue</a>
-                            <a href="#">Cakes</a>
-                            <a href="#">Wedding Vendor</a>
-                            <a href="#">Wedding Flowers</a>
-                            <a href="#">Photography</a>
-                        </div>
-                        <!-- /.widget-tags -->
+                        <!-- /.real wedding img -->
                     </div>
+                    <!-- /.real wedding block -->
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
+                    <div class="real-wedding-block">
+                        <!-- real wedding block -->
+                        <div class="real-wedding-img zoomimg">
+                            <!-- real wedding img -->
+                            <a href="#"><img src="images/real-wedding-img-4.jpg" alt="Wedding Vendor & Supplier Directory HTML Template "  class="img-fluid"></a>
+                        </div>
+                        <!-- /.real wedding img -->
+                        <div class="real-wedding-content">
+                            <!-- real wedding content -->
+                            <h3 class="real-wedding-title"><a href="#" class="title">Rahul & Pooja</a></h3>
+                           <div class="real-wedding-meta"><span class="real-wedding-date">10 May, 2018</span> 
+                            <span class="real-wedding-place pl-3"><i class="fas fa-map-marker-alt pr-1"></i>Ahmedabad</span>
+                           </div>
+                        </div>
+                        <!-- /.real wedding img -->
+                    </div>
+                    <!-- /.real wedding block -->
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
+                    <div class="real-wedding-block">
+                        <!-- real wedding block -->
+                        <div class="real-wedding-img zoomimg">
+                            <!-- real wedding img -->
+                            <a href="#"><img src="images/real-wedding-img-2.jpg" alt="Wedding Vendor & Supplier Directory HTML Template "  class="img-fluid"></a>
+                        </div>
+                        <!-- /.real wedding img -->
+                        <div class="real-wedding-content">
+                            <!-- real wedding content -->
+                            <h3 class="real-wedding-title"><a href="#" class="title">Shreena & Dhanesh</a></h3>
+                         <div class="real-wedding-meta"><span class="real-wedding-date">12 May, 2018</span> 
+                            <span class="real-wedding-place pl-3"><i class="fas fa-map-marker-alt pr-1"></i>Pune</span>
+                        
+                         </div>
+                        </div>
+                        <!-- /.real wedding img -->
+                    </div>
+                    <!-- /.real wedding block -->
                 </div>
             </div>
         </div>
@@ -590,6 +575,7 @@
     </div>
     <!-- /.tiny-footer-section -->
     <a href="javascript:" id="return-to-top"><i class="fa fa-angle-up"></i></a>
+    <!-- /.footer-section -->
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="js/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
@@ -597,9 +583,8 @@
     <script src="js/menumaker.min.js"></script>
     <script src="js/custom-script.js"></script>
     <script src="js/return-to-top.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
 </body>
 
 
-<!-- Mirrored from jituchauhan.com/real-wed/realwed/blog-classic.jsp by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:39:41 GMT -->
+<!-- Mirrored from jituchauhan.com/real-wed/realwed/real-wedding-single.jsp by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Nov 2018 09:39:33 GMT -->
 </html>

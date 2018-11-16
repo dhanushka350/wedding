@@ -45,13 +45,13 @@
                             <a class=" dropdown-toggle" id="dropdownMenuButton" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                           <span class="user-icon"> <img src="images/dashboard-profile-couple.jpg" alt="" class="rounded-circle mb10"></span><span class="user-vendor-name">Eva J. Giles</span></a>
                             <div class=" dashboard-dropdown-menu dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                <a class="dropdown-item" href="couple-dashboard-overview.html">Dashboard</a>
-                                <a class="dropdown-item" href="couple-dashboard-mywishlist.html">My Wishlist </a>
-                                <a class="dropdown-item" href="couple-dashboard-todolist-2.html">To Do List</a>
+                                <a class="dropdown-item" href="couple-dashboard-overview.jsp">Dashboard</a>
+                                <a class="dropdown-item" href="couple-dashboard-mywishlist.jsp">My Wishlist </a>
+                                <a class="dropdown-item" href="couple-dashboard-todolist-2.jsp">To Do List</a>
                                 <a class="dropdown-item" href="couple-dashboard-budget.jsp">Budget</a>
-                                <a class="dropdown-item" href="couple-dashboard-guest-manager.html">Guestlist </a>
-                                <a class="dropdown-item" href="couple-dashboard-table-planner.html">Seating Table </a>
-                                <a class="dropdown-item" href="couple-dashboard-profile.html">My Profile </a>
+                                <a class="dropdown-item" href="couple-dashboard-guest-manager.jsp">Guestlist </a>
+                                <a class="dropdown-item" href="couple-dashboard-table-planner.jsp">Seating Table </a>
+                                <a class="dropdown-item" href="couple-dashboard-profile.jsp">My Profile </a>
                                 <a class="dropdown-item" href="index.jsp">Log Out </a>
                             </div>
                         </div>
@@ -75,15 +75,15 @@
             </div>
             <div class="dashboard-nav">
                 <ul class="list-unstyled">
-                    <li><a href="couple-dashboard-overview.html"><span class="dash-nav-icon"><i class="fas fa-compass"></i></span>Dashboard</a></li>
-                    <li><a href="couple-dashboard-mywishlist.html"><span class="dash-nav-icon"><i class="fas fa-heart"></i> </span> My Wishlist </a></li>
-                    <li><a href="couple-dashboard-todolist-2.html"><span class="dash-nav-icon"><i class="fas fa-list-ul"></i></span>To Do List</a></li>
+                    <li><a href="couple-dashboard-overview.jsp"><span class="dash-nav-icon"><i class="fas fa-compass"></i></span>Dashboard</a></li>
+                    <li><a href="couple-dashboard-mywishlist.jsp"><span class="dash-nav-icon"><i class="fas fa-heart"></i> </span> My Wishlist </a></li>
+                    <li><a href="couple-dashboard-todolist-2.jsp"><span class="dash-nav-icon"><i class="fas fa-list-ul"></i></span>To Do List</a></li>
                     <li><a href="couple-dashboard-budget.jsp"><span class="dash-nav-icon"><i class="fas fa-calculator"></i></span>Budget</a></li>
-                    <li class="active"><a href="couple-dashboard-guest-manager.html"><span class="dash-nav-icon"><i class="fas fa-users"></i></span>Guestlist </a></li>
-                    <li><a href="couple-dashboard-table-planner.html"><span class="dash-nav-icon"><i class="fas fa-table"></i></span>Seating Table </a></li>
-                    <li><a href="couple-dashboard-website.html"><span class="dash-nav-icon"><i class="fas fa-link"></i></span>Wedding Website </a></li>
-                    <li><a href="couple-dashboard-realwedding.html"><span class="dash-nav-icon"><i class="fas fa-images"></i></span>Real Wedding </a></li>
-                    <li><a href="couple-dashboard-profile.html"><span class="dash-nav-icon"><i class="fas fa-user-circle"></i></span>My Profile </a></li>
+                    <li class="active"><a href="couple-dashboard-guest-manager.jsp"><span class="dash-nav-icon"><i class="fas fa-users"></i></span>Guestlist </a></li>
+                    <li><a href="couple-dashboard-table-planner.jsp"><span class="dash-nav-icon"><i class="fas fa-table"></i></span>Seating Table </a></li>
+                    <li><a href="couple-dashboard-website.jsp"><span class="dash-nav-icon"><i class="fas fa-link"></i></span>Wedding Website </a></li>
+                    <li><a href="couple-dashboard-realwedding.jsp"><span class="dash-nav-icon"><i class="fas fa-images"></i></span>Real Wedding </a></li>
+                    <li><a href="couple-dashboard-profile.jsp"><span class="dash-nav-icon"><i class="fas fa-user-circle"></i></span>My Profile </a></li>
                     <li><a href="index.jsp"><span class="dash-nav-icon"><i class="fas fa-sign-out-alt"></i></span>Log Out </a></li>
                 </ul>
             </div>
