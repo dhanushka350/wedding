@@ -159,7 +159,7 @@
             <div class="col-xl-2 col-lg-2 text-right col-md-2 col-sm-12 col-12 d-none d-xl-block d-lg-block">
                 <!-- header-btn -->
                 <div class="header-btn">
-                    <a href="couple-form.jsp" class="btn btn-primary btn-sm">Login</a>
+                    <a href="/authentication_manager/login" class="btn btn-primary btn-sm">Login</a>
                 </div>
                 <!-- /.header-btn -->
             </div>
