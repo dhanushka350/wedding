@@ -20,14 +20,6 @@ public class LoginController {
     private UserService userService;
 
 
-    @RequestMapping(value = {"/"}, method = RequestMethod.GET)
-    public ModelAndView public_home() {
-        ModelAndView modelAndView = new ModelAndView();
-        modelAndView.setViewName("index");
-        return modelAndView;
-    }
-
-
     @RequestMapping(value = {"/login"}, method = RequestMethod.GET)
     public ModelAndView login() {
         ModelAndView modelAndView = new ModelAndView();

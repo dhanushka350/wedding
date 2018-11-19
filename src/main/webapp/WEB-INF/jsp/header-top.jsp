@@ -12,7 +12,7 @@
             <div class="col-xl-6 col-lg-6 col-sm-6 col-md-6 col-sm-6 col-6 d-none d-xl-block d-lg-block d-md-block">
                 <div class="header-text">
                     <%--<p class="wlecome-text">Welcome to Wedding Directory HTML Template.</p>--%>
-                    <p class="wlecome-text" style="font-weight: bold">PLEASE NOTE :- </p>
+                    <p class="wlecome-text" style="font-weight: bold">PLEASE NOTE :- SYSTEM IS UNDER CONSTRUCTION.</p>
                 </div>
             </div>
             <div class="col-xl-6 col-lg-6 col-sm-6 col-md-6 col-sm-12 col-12">
