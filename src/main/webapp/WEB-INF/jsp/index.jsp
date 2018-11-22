@@ -83,9 +83,11 @@
         </div>
     </div>
 </section>
+
 <!--TOP SEARCH SECTION-->
 <jsp:include page="header.jsp"/>
 <!--HOME PROJECTS-->
+
 <section>
     <div class="land-full land-packages">
         <div class="container">
