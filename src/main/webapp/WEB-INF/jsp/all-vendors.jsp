@@ -38,7 +38,7 @@
     <div class="container">
         <div class="row">
             <div class="dir-alp-tit">
-                <h1>Listing Vendors</h1>
+                <h1 style="color: white">Listing Vendors</h1>
                 <ol class="breadcrumb">
                     <li><a href="#">Home</a></li>
                     <%--<li><a href="#">Listing</a></li>--%>

@@ -282,7 +282,6 @@
      */
     /* padding: 21px 0px 15px 15px;
      */
-     */
      display: -webkit-box;
 }
  .ts-menu-2 a i {
@@ -1610,7 +1609,7 @@
      background: #fff;
 }
  .dir-alp {
-     background: url(../images/list-p-bg.jpg) no-repeat center top;
+     background: url(../images/categories/all.jpg) no-repeat center top;
      background-size: cover;
      background-attachment: fixed;
 }
@@ -3676,7 +3675,7 @@
 /*-------------------------------------------------------*/
  .pg-list-1 {
      margin-top: 60px;
-     background: url(../images/list-deta/bg.jpg) no-repeat;
+     background: url(../images/categories/dancing.jpg) no-repeat;
      background-size: cover;
      position: relative;
      padding: 250px 0px 70px 0px;
