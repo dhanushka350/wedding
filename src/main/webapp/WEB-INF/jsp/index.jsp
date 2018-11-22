@@ -739,6 +739,7 @@
 <script src="js/bootstrap.js" type="text/javascript"></script>
 <script src="js/materialize.min.js" type="text/javascript"></script>
 <script src="js/custom.js"></script>
+<script src="app/mainSearchScript.js" type="text/javascript"></script>
 </body>
 
 
