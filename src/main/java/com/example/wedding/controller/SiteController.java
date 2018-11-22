@@ -15,6 +15,13 @@ public class SiteController {
         return modelAndView;
     }
 
+    @RequestMapping(value = {"/home/listing/vendors"}, method = RequestMethod.GET)
+    public ModelAndView allVendors() {
+        ModelAndView modelAndView = new ModelAndView();
+        modelAndView.setViewName("list");
+        return modelAndView;
+    }
+
     @RequestMapping(value = {"/contact_us"}, method = RequestMethod.GET)
     public ModelAndView contactUs() {
         ModelAndView modelAndView = new ModelAndView();

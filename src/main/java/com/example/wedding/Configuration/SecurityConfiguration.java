@@ -48,7 +48,7 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
                 .antMatchers("/").permitAll()
                 .antMatchers("/login").permitAll()
                 .antMatchers("/registration").permitAll()
-                .antMatchers("/service/vendor/vendor-dashboard-overview").permitAll()
+                .antMatchers("/home/listing/vendors").permitAll()
                 .antMatchers("/error").permitAll()
                 .antMatchers("/admin/**").hasAuthority("ADMIN").anyRequest()
                 .authenticated().and().csrf().disable().formLogin()
@@ -67,7 +67,7 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
         web
                 .ignoring()
                 .antMatchers("/resources/**", "/static/**", "/css/**", "/js/**", "/images/**",
-                        "/editor-fonts/**", "/email-template/**", "/fontawesome/**", "/fontello/**");
+                        "/fonts/**");
     }
 
 }
