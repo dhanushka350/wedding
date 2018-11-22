@@ -40,11 +40,11 @@
 		<div class="container">
 			<div class="row">
 				<div class="dir-alp-tit">
-					<h1>Property in Chicago</h1>
+					<h1>Searching Vendors</h1>
 					<ol class="breadcrumb">
 						<li><a href="#">Home</a> </li>
-						<li><a href="#">Listing</a> </li>
-						<li class="active">All Property</li>
+						<li><a href="#">Vendors</a> </li>
+						<li class="active">All Dancing</li>
 					</ol>
 				</div>
 			</div>
@@ -52,7 +52,7 @@
 				<div class="dir-alp-con">
 					<div class="col-md-3 dir-alp-con-left">
 						<div class="dir-alp-con-left-1">
-							<h3>Nearby Listings(07)</h3> </div>
+							<h3>All Catagory Vendors</h3> </div>
 						<div class="dir-hom-pre dir-alp-left-ner-notb">
 							<ul>
 								<!--==========NEARBY LISTINGS============-->
@@ -60,8 +60,8 @@
 									<a href="listing-details.html">
 										<div class="list-left-near lln1"> <img src="/images/services/s1.jpg" alt="" /> </div>
 										<div class="list-left-near lln2">
-											<h5>Property Getaways</h5> <span>City: illunois, United States</span> </div>
-										<div class="list-left-near lln3"> <span>5.0</span> </div>
+											<h5>Dancing Groups</h5> <span>20 City </span> </div>
+										<%--<div class="list-left-near lln3"> <span>5.0</span> </div>--%>
 									</a>
 								</li>
 								<!--==========END NEARBY LISTINGS============-->
@@ -70,8 +70,8 @@
 									<a href="listing-details.html">
 										<div class="list-left-near lln1"> <img src="/images/services/s2.jpg" alt="" /> </div>
 										<div class="list-left-near lln2">
-											<h5>Home Trends</h5> <span>City: illunois, United States</span> </div>
-										<div class="list-left-near lln3"> <span>4.0</span> </div>
+											<h5>Catering Services</h5> <span>30 City </span> </div>
+										<%--<div class="list-left-near lln3"> <span>4.0</span> </div>--%>
 									</a>
 								</li>
 								<!--==========END NEARBY LISTINGS============-->
@@ -80,8 +80,8 @@
 									<a href="listing-details.html">
 										<div class="list-left-near lln1"> <img src="/images/services/s3.jpg" alt="" /> </div>
 										<div class="list-left-near lln2">
-											<h5>Security System</h5> <span>City: illunois, United States</span> </div>
-										<div class="list-left-near lln3"> <span>4.4</span> </div>
+											<h5>Jewelleries</h5> <span>15 City</span> </div>
+										<%--<div class="list-left-near lln3"> <span>4.4</span> </div>--%>
 									</a>
 								</li>
 								<!--==========END NEARBY LISTINGS============-->
@@ -90,8 +90,8 @@
 									<a href="listing-details.html">
 										<div class="list-left-near lln1"> <img src="/images/services/s4.jpg" alt="" /> </div>
 										<div class="list-left-near lln2">
-											<h5>Distance Educations</h5> <span>City: illunois, United States</span> </div>
-										<div class="list-left-near lln3"> <span>3.8</span> </div>
+											<h5>Photography</h5> <span>40 City</span> </div>
+										<%--<div class="list-left-near lln3"> <span>3.8</span> </div>--%>
 									</a>
 								</li>
 								<!--==========END NEARBY LISTINGS============-->
@@ -100,8 +100,8 @@
 									<a href="listing-details.html">
 										<div class="list-left-near lln1"> <img src="/images/services/s5.jpg" alt="" /> </div>
 										<div class="list-left-near lln2">
-											<h5>Fresh Cake Shops</h5> <span>City: illunois, United States</span> </div>
-										<div class="list-left-near lln3"> <span>4.8</span> </div>
+											<h5>Venues</h5> <span>15 City</span> </div>
+										<%--<div class="list-left-near lln3"> <span>4.8</span> </div>--%>
 									</a>
 								</li>
 								<!--==========END NEARBY LISTINGS============-->
@@ -110,8 +110,8 @@
 									<a href="listing-details.html">
 										<div class="list-left-near lln1"> <img src="/images/services/s6.jpg" alt="" /> </div>
 										<div class="list-left-near lln2">
-											<h5>Chicago Automobiles</h5> <span>City: illunois, United States</span> </div>
-										<div class="list-left-near lln3"> <span>5.0</span> </div>
+											<h5>Flowers</h5> <span>10 City</span> </div>
+										<%--<div class="list-left-near lln3"> <span>5.0</span> </div>--%>
 									</a>
 								</li>
 								<!--==========END NEARBY LISTINGS============-->
@@ -120,8 +120,28 @@
 									<a href="listing-details.html">
 										<div class="list-left-near lln1"> <img src="/images/services/s7.jpg" alt="" /> </div>
 										<div class="list-left-near lln2">
-											<h5>Bike Service Centers</h5> <span>City: illunois, United States</span> </div>
-										<div class="list-left-near lln3"> <span>5.0</span> </div>
+											<h5>Cake Structures</h5> <span>25 City</span> </div>
+										<%--<div class="list-left-near lln3"> <span>5.0</span> </div>--%>
+									</a>
+								</li>
+								<!--==========END NEARBY LISTINGS============-->
+								<!--==========NEARBY LISTINGS============-->
+								<li>
+									<a href="listing-details.html">
+										<div class="list-left-near lln1"> <img src="/images/services/s7.jpg" alt="" /> </div>
+										<div class="list-left-near lln2">
+											<h5>Wedding Dress</h5> <span>25 City</span> </div>
+										<%--<div class="list-left-near lln3"> <span>5.0</span> </div>--%>
+									</a>
+								</li>
+								<!--==========END NEARBY LISTINGS============-->
+								<!--==========NEARBY LISTINGS============-->
+								<li>
+									<a href="listing-details.html">
+										<div class="list-left-near lln1"> <img src="/images/services/s7.jpg" alt="" /> </div>
+										<div class="list-left-near lln2">
+											<h5>DJ Art</h5> <span>35 City</span> </div>
+										<%--<div class="list-left-near lln3"> <span>5.0</span> </div>--%>
 									</a>
 								</li>
 								<!--==========END NEARBY LISTINGS============-->
@@ -129,98 +149,100 @@
 						</div>
 						<!--==========Sub Category Filter============-->
 						<div class="dir-alp-l3 dir-alp-l-com">
-							<h4>Sub Category Filter</h4>
-							<div class="dir-alp-l-com1 dir-alp-p3">
-								<form action="#">
-									<ul>
-										<li>
-											<input type="checkbox" id="scf1" />
-											<label for="scf1">Hortels & Resorts</label>
-										</li>
-										<li>
-											<input type="checkbox" id="scf2" />
-											<label for="scf2">Fitness Care</label>
-										</li>
-										<li>
-											<input type="checkbox" id="scf3" />
-											<label for="scf3">Educations</label>
-										</li>
-										<li>
-											<input type="checkbox" id="scf4" />
-											<label for="scf4">Property</label>
-										</li>
-										<li>
-											<input type="checkbox" id="scf5" />
-											<label for="scf5">Home Services</label>
-										</li>
-									</ul>
-								</form> <a href="#!" class="list-view-more-btn">view more</a> </div>
+							<h4></h4>
+							<%--<div class="dir-alp-l-com1 dir-alp-p3">--%>
+								<%--<form action="#">--%>
+									<%--<ul>--%>
+										<%--<li>--%>
+											<%--<input type="checkbox" id="scf1" />--%>
+											<%--<label for="scf1">Hortels & Resorts</label>--%>
+										<%--</li>--%>
+										<%--<li>--%>
+											<%--<input type="checkbox" id="scf2" />--%>
+											<%--<label for="scf2">Fitness Care</label>--%>
+										<%--</li>--%>
+										<%--<li>--%>
+											<%--<input type="checkbox" id="scf3" />--%>
+											<%--<label for="scf3">Educations</label>--%>
+										<%--</li>--%>
+										<%--<li>--%>
+											<%--<input type="checkbox" id="scf4" />--%>
+											<%--<label for="scf4">Property</label>--%>
+										<%--</li>--%>
+										<%--<li>--%>
+											<%--<input type="checkbox" id="scf5" />--%>
+											<%--<label for="scf5">Home Services</label>--%>
+										<%--</li>--%>
+									<%--</ul>--%>
+								<%--</form>--%>
+							<%--</div>--%>
 						</div>
 						<!--==========End Sub Category Filter============-->
 						<!--==========Sub Category Filter============-->
-						<div class="dir-alp-l3 dir-alp-l-com">
-							<h4>Distance</h4>
-							<div class="dir-alp-l-com1 dir-alp-p3">
-								<form>
-									<ul>
-										<li>
-											<input class="with-gap" name="group1" type="radio" id="ldis1" />
-											<label for="ldis1">00 to 02km</label>
-										</li>
-										<li>
-											<input class="with-gap" name="group1" type="radio" id="ldis2" />
-											<label for="ldis2">02 to 05km</label>
-										</li>
-										<li>
-											<input class="with-gap" name="group1" type="radio" id="ldis3" />
-											<label for="ldis3">05 to 10km</label>
-										</li>
-										<li>
-											<input class="with-gap" name="group1" type="radio" id="ldis4" />
-											<label for="ldis4">10 to 20km</label>
-										</li>
-										<li>
-											<input class="with-gap" name="group1" type="radio" id="ldis5" />
-											<label for="ldis5">20 to 30km</label>
-										</li>
-									</ul>
-								</form> <a href="#!" class="list-view-more-btn">view more</a> </div>
-						</div>
+						<%--<div class="dir-alp-l3 dir-alp-l-com">--%>
+							<%--<h4>Distance</h4>--%>
+							<%--<div class="dir-alp-l-com1 dir-alp-p3">--%>
+								<%--<form>--%>
+									<%--<ul>--%>
+										<%--<li>--%>
+											<%--<input class="with-gap" name="group1" type="radio" id="ldis1" />--%>
+											<%--<label for="ldis1">00 to 02km</label>--%>
+										<%--</li>--%>
+										<%--<li>--%>
+											<%--<input class="with-gap" name="group1" type="radio" id="ldis2" />--%>
+											<%--<label for="ldis2">02 to 05km</label>--%>
+										<%--</li>--%>
+										<%--<li>--%>
+											<%--<input class="with-gap" name="group1" type="radio" id="ldis3" />--%>
+											<%--<label for="ldis3">05 to 10km</label>--%>
+										<%--</li>--%>
+										<%--<li>--%>
+											<%--<input class="with-gap" name="group1" type="radio" id="ldis4" />--%>
+											<%--<label for="ldis4">10 to 20km</label>--%>
+										<%--</li>--%>
+										<%--<li>--%>
+											<%--<input class="with-gap" name="group1" type="radio" id="ldis5" />--%>
+											<%--<label for="ldis5">20 to 30km</label>--%>
+										<%--</li>--%>
+									<%--</ul>--%>
+								<%--</form>--%>
+							<%--</div>--%>
+						<%--</div>--%>
 						<!--==========End Sub Category Filter============-->
 						<!--==========Sub Category Filter============-->
-						<div class="dir-alp-l3 dir-alp-l-com">
-							<h4>Ratings</h4>
-							<div class="dir-alp-l-com1 dir-alp-p3">
-								<form>
-									<ul>
-										<li>
-											<input type="checkbox" class="filled-in" id="lr1" />
-											<label for="lr1"> <span class="list-rat-ch"> <span>5.0</span> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> </span>
-											</label>
-										</li>
-										<li>
-											<input type="checkbox" class="filled-in" id="lr2" />
-											<label for="lr2"> <span class="list-rat-ch"> <span>4.0</span> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> </span>
-											</label>
-										</li>
-										<li>
-											<input type="checkbox" class="filled-in" id="lr3" />
-											<label for="lr3"> <span class="list-rat-ch"> <span>3.0</span> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> </span>
-											</label>
-										</li>
-										<li>
-											<input type="checkbox" class="filled-in" id="lr4" />
-											<label for="lr4"> <span class="list-rat-ch"> <span>2.0</span> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> </span>
-											</label>
-										</li>
-										<li>
-											<input type="checkbox" class="filled-in" id="lr5" />
-											<label for="lr5"> <span class="list-rat-ch"> <span>1.0</span> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> </span>
-											</label>
-										</li>
-									</ul>
-								</form> <a href="#!" class="list-view-more-btn">view more</a> </div>
-						</div>
+						<%--<div class="dir-alp-l3 dir-alp-l-com">--%>
+							<%--<h4>Ratings</h4>--%>
+							<%--<div class="dir-alp-l-com1 dir-alp-p3">--%>
+								<%--<form>--%>
+									<%--<ul>--%>
+										<%--<li>--%>
+											<%--<input type="checkbox" class="filled-in" id="lr1" />--%>
+											<%--<label for="lr1"> <span class="list-rat-ch"> <span>5.0</span> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> </span>--%>
+											<%--</label>--%>
+										<%--</li>--%>
+										<%--<li>--%>
+											<%--<input type="checkbox" class="filled-in" id="lr2" />--%>
+											<%--<label for="lr2"> <span class="list-rat-ch"> <span>4.0</span> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> </span>--%>
+											<%--</label>--%>
+										<%--</li>--%>
+										<%--<li>--%>
+											<%--<input type="checkbox" class="filled-in" id="lr3" />--%>
+											<%--<label for="lr3"> <span class="list-rat-ch"> <span>3.0</span> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> </span>--%>
+											<%--</label>--%>
+										<%--</li>--%>
+										<%--<li>--%>
+											<%--<input type="checkbox" class="filled-in" id="lr4" />--%>
+											<%--<label for="lr4"> <span class="list-rat-ch"> <span>2.0</span> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> </span>--%>
+											<%--</label>--%>
+										<%--</li>--%>
+										<%--<li>--%>
+											<%--<input type="checkbox" class="filled-in" id="lr5" />--%>
+											<%--<label for="lr5"> <span class="list-rat-ch"> <span>1.0</span> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> </span>--%>
+											<%--</label>--%>
+										<%--</li>--%>
+									<%--</ul>--%>
+								<%--</form> <a href="#!" class="list-view-more-btn">view more</a> </div>--%>
+						<%--</div>--%>
 						<!--==========End Sub Category Filter============-->
 					</div>
 					<div class="col-md-9 dir-alp-con-right">
@@ -229,9 +251,34 @@
 								<!--LISTINGS-->
 								<div class="home-list-pop list-spac">
 									<!--LISTINGS IMAGE-->
-									<div class="col-md-3 list-ser-img"> <img src="/images/services/s10.jpg" alt="" /> </div>
+									<div class="col-md-3 list-ser-img"> <img src="/images/categories/dancing.jpg" alt="" /> </div>
 									<!--LISTINGS: CONTENT-->
-									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Property Luxury Homes</h3></a>
+									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Dancing Group One</h3></a>
+										<h4>Dancing Group One</h4>
+										<p><b>Address:</b> 28800 Orchard Lake Road, Suite 180 Farmington Hills, U.S.A.</p>
+										<div class="list-number">
+											<ul>
+												<li><img src="/images/icon/phone.png" alt=""> +01 1245 2541, +62 6541 6528</li>
+												<li><img src="/images/icon/mail.png" alt=""> localdir@webdir.com</li>
+											</ul>
+										</div> <span class="home-list-pop-rat">4.2</span>
+										<div class="list-enqu-btn">
+											<ul>
+												<li><a href="#!"><i class="fa fa-star-o" aria-hidden="true"></i> Write Review</a> </li>
+												<li><a href="#!"><i class="fa fa-commenting-o" aria-hidden="true"></i> Send SMS</a> </li>
+												<li><a href="#!"><i class="fa fa-phone" aria-hidden="true"></i> Call Now</a> </li>
+												<li><a href="#!" data-dismiss="modal" data-toggle="modal" data-target="#list-quo"><i class="fa fa-usd" aria-hidden="true"></i>Visit</a> </li>
+											</ul>
+										</div>
+									</div>
+								</div>
+								<!--LISTINGS END-->
+								<!--LISTINGS-->
+								<div class="home-list-pop list-spac">
+									<!--LISTINGS IMAGE-->
+									<div class="col-md-3 list-ser-img"> <img src="/images/categories/dancing.jpg" alt="" /> </div>
+									<!--LISTINGS: CONTENT-->
+									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Dancing Group Two</h3></a>
 										<h4>Express Avenue Mall, Los Angeles</h4>
 										<p><b>Address:</b> 28800 Orchard Lake Road, Suite 180 Farmington Hills, U.S.A.</p>
 										<div class="list-number">
@@ -254,9 +301,9 @@
 								<!--LISTINGS-->
 								<div class="home-list-pop list-spac">
 									<!--LISTINGS IMAGE-->
-									<div class="col-md-3 list-ser-img"> <img src="/images/services/s1.jpg" alt="" /> </div>
+									<div class="col-md-3 list-ser-img"> <img src="/images/categories/dancing.jpg" alt="" /> </div>
 									<!--LISTINGS: CONTENT-->
-									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Effi Furniture Dealers</h3></a>
+									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Dancing Group Three</h3></a>
 										<h4>Express Avenue Mall, Los Angeles</h4>
 										<p><b>Address:</b> 28800 Orchard Lake Road, Suite 180 Farmington Hills, U.S.A.</p>
 										<div class="list-number">
@@ -279,9 +326,9 @@
 								<!--LISTINGS-->
 								<div class="home-list-pop list-spac">
 									<!--LISTINGS IMAGE-->
-									<div class="col-md-3 list-ser-img"> <img src="/images/services/s2.jpg" alt="" /> </div>
+									<div class="col-md-3 list-ser-img"> <img src="/images/categories/dancing.jpg" alt="" /> </div>
 									<!--LISTINGS: CONTENT-->
-									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>NIID Job Training</h3></a>
+									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Dancing Group Four</h3></a>
 										<h4>Express Avenue Mall, Los Angeles</h4>
 										<p><b>Address:</b> 28800 Orchard Lake Road, Suite 180 Farmington Hills, U.S.A.</p>
 										<div class="list-number">
@@ -304,9 +351,9 @@
 								<!--LISTINGS-->
 								<div class="home-list-pop list-spac">
 									<!--LISTINGS IMAGE-->
-									<div class="col-md-3 list-ser-img"> <img src="/images/services/s3.jpg" alt="" /> </div>
+									<div class="col-md-3 list-ser-img"> <img src="/images/categories/dancing.jpg" alt="" /> </div>
 									<!--LISTINGS: CONTENT-->
-									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Computer Repair & Services</h3></a>
+									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Dancing Group Five</h3></a>
 										<h4>Express Avenue Mall, Los Angeles</h4>
 										<p><b>Address:</b> 28800 Orchard Lake Road, Suite 180 Farmington Hills, U.S.A.</p>
 										<div class="list-number">
@@ -329,9 +376,9 @@
 								<!--LISTINGS-->
 								<div class="home-list-pop list-spac">
 									<!--LISTINGS IMAGE-->
-									<div class="col-md-3 list-ser-img"> <img src="/images/services/s4.jpg" alt="" /> </div>
+									<div class="col-md-3 list-ser-img"> <img src="/images/categories/dancing.jpg" alt="" /> </div>
 									<!--LISTINGS: CONTENT-->
-									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Packers and Movers</h3></a>
+									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Dancing Group Six</h3></a>
 										<h4>Express Avenue Mall, Los Angeles</h4>
 										<p><b>Address:</b> 28800 Orchard Lake Road, Suite 180 Farmington Hills, U.S.A.</p>
 										<div class="list-number">
@@ -354,9 +401,9 @@
 								<!--LISTINGS-->
 								<div class="home-list-pop list-spac">
 									<!--LISTINGS IMAGE-->
-									<div class="col-md-3 list-ser-img"> <img src="/images/services/s5.jpg" alt="" /> </div>
+									<div class="col-md-3 list-ser-img"> <img src="/images/categories/dancing.jpg" alt="" /> </div>
 									<!--LISTINGS: CONTENT-->
-									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Tour and Travels</h3></a>
+									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Dancing Group Seven</h3></a>
 										<h4>Express Avenue Mall, Los Angeles</h4>
 										<p><b>Address:</b> 28800 Orchard Lake Road, Suite 180 Farmington Hills, U.S.A.</p>
 										<div class="list-number">
@@ -379,9 +426,9 @@
 								<!--LISTINGS-->
 								<div class="home-list-pop list-spac">
 									<!--LISTINGS IMAGE-->
-									<div class="col-md-3 list-ser-img"> <img src="/images/services/s6.jpg" alt="" /> </div>
+									<div class="col-md-3 list-ser-img"> <img src="/images/categories/dancing.jpg" alt="" /> </div>
 									<!--LISTINGS: CONTENT-->
-									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Andru Modular Kitchen</h3></a>
+									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Dancing Group Eight</h3></a>
 										<h4>Express Avenue Mall, Los Angeles</h4>
 										<p><b>Address:</b> 28800 Orchard Lake Road, Suite 180 Farmington Hills, U.S.A.</p>
 										<div class="list-number">
@@ -404,9 +451,9 @@
 								<!--LISTINGS-->
 								<div class="home-list-pop list-spac">
 									<!--LISTINGS IMAGE-->
-									<div class="col-md-3 list-ser-img"> <img src="/images/services/s7.jpg" alt="" /> </div>
+									<div class="col-md-3 list-ser-img"> <img src="/images/categories/dancing.jpg" alt="" /> </div>
 									<!--LISTINGS: CONTENT-->
-									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Rute Skin Care & Treatment</h3></a>
+									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Dancing Group Nine</h3></a>
 										<h4>Express Avenue Mall, Los Angeles</h4>
 										<p><b>Address:</b> 28800 Orchard Lake Road, Suite 180 Farmington Hills, U.S.A.</p>
 										<div class="list-number">
@@ -429,9 +476,9 @@
 								<!--LISTINGS-->
 								<div class="home-list-pop list-spac">
 									<!--LISTINGS IMAGE-->
-									<div class="col-md-3 list-ser-img"> <img src="/images/services/s6.jpg" alt="" /> </div>
+									<div class="col-md-3 list-ser-img"> <img src="/images/categories/dancing.jpg" alt="" /> </div>
 									<!--LISTINGS: CONTENT-->
-									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Health and Fitness</h3></a>
+									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Dancing Group Ten</h3></a>
 										<h4>Express Avenue Mall, Los Angeles</h4>
 										<p><b>Address:</b> 28800 Orchard Lake Road, Suite 180 Farmington Hills, U.S.A.</p>
 										<div class="list-number">
@@ -454,9 +501,9 @@
 								<!--LISTINGS-->
 								<div class="home-list-pop list-spac">
 									<!--LISTINGS IMAGE-->
-									<div class="col-md-3 list-ser-img"> <img src="/images/services/s10.jpg" alt="" /> </div>
+									<div class="col-md-3 list-ser-img"> <img src="/images/categories/dancing.jpg" alt="" /> </div>
 									<!--LISTINGS: CONTENT-->
-									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Property Luxury Homes</h3></a>
+									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Dancing Group Eleven</h3></a>
 										<h4>Express Avenue Mall, Los Angeles</h4>
 										<p><b>Address:</b> 28800 Orchard Lake Road, Suite 180 Farmington Hills, U.S.A.</p>
 										<div class="list-number">
@@ -479,9 +526,9 @@
 								<!--LISTINGS-->
 								<div class="home-list-pop list-spac">
 									<!--LISTINGS IMAGE-->
-									<div class="col-md-3 list-ser-img"> <img src="/images/services/s1.jpg" alt="" /> </div>
+									<div class="col-md-3 list-ser-img"> <img src="/images/categories/dancing.jpg" alt="" /> </div>
 									<!--LISTINGS: CONTENT-->
-									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Effi Furniture Dealers</h3></a>
+									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Dancing Group Twovel</h3></a>
 										<h4>Express Avenue Mall, Los Angeles</h4>
 										<p><b>Address:</b> 28800 Orchard Lake Road, Suite 180 Farmington Hills, U.S.A.</p>
 										<div class="list-number">
@@ -504,9 +551,9 @@
 								<!--LISTINGS-->
 								<div class="home-list-pop list-spac">
 									<!--LISTINGS IMAGE-->
-									<div class="col-md-3 list-ser-img"> <img src="/images/services/s2.jpg" alt="" /> </div>
+									<div class="col-md-3 list-ser-img"> <img src="/images/categories/dancing.jpg" alt="" /> </div>
 									<!--LISTINGS: CONTENT-->
-									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>NIID Job Training</h3></a>
+									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Dancing Group Threeten</h3></a>
 										<h4>Express Avenue Mall, Los Angeles</h4>
 										<p><b>Address:</b> 28800 Orchard Lake Road, Suite 180 Farmington Hills, U.S.A.</p>
 										<div class="list-number">
@@ -529,9 +576,9 @@
 								<!--LISTINGS-->
 								<div class="home-list-pop list-spac">
 									<!--LISTINGS IMAGE-->
-									<div class="col-md-3 list-ser-img"> <img src="/images/services/s3.jpg" alt="" /> </div>
+									<div class="col-md-3 list-ser-img"> <img src="/images/categories/dancing.jpg" alt="" /> </div>
 									<!--LISTINGS: CONTENT-->
-									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Computer Repair & Services</h3></a>
+									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Dancing Groups</h3></a>
 										<h4>Express Avenue Mall, Los Angeles</h4>
 										<p><b>Address:</b> 28800 Orchard Lake Road, Suite 180 Farmington Hills, U.S.A.</p>
 										<div class="list-number">
@@ -554,9 +601,9 @@
 								<!--LISTINGS-->
 								<div class="home-list-pop list-spac">
 									<!--LISTINGS IMAGE-->
-									<div class="col-md-3 list-ser-img"> <img src="/images/services/s4.jpg" alt="" /> </div>
+									<div class="col-md-3 list-ser-img"> <img src="/images/categories/dancing.jpg" alt="" /> </div>
 									<!--LISTINGS: CONTENT-->
-									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Packers and Movers</h3></a>
+									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Dancing Groups</h3></a>
 										<h4>Express Avenue Mall, Los Angeles</h4>
 										<p><b>Address:</b> 28800 Orchard Lake Road, Suite 180 Farmington Hills, U.S.A.</p>
 										<div class="list-number">
@@ -579,9 +626,9 @@
 								<!--LISTINGS-->
 								<div class="home-list-pop list-spac">
 									<!--LISTINGS IMAGE-->
-									<div class="col-md-3 list-ser-img"> <img src="/images/services/s5.jpg" alt="" /> </div>
+									<div class="col-md-3 list-ser-img"> <img src="/images/categories/dancing.jpg" alt="" /> </div>
 									<!--LISTINGS: CONTENT-->
-									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Tour and Travels</h3></a>
+									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Dancing Groups</h3></a>
 										<h4>Express Avenue Mall, Los Angeles</h4>
 										<p><b>Address:</b> 28800 Orchard Lake Road, Suite 180 Farmington Hills, U.S.A.</p>
 										<div class="list-number">
@@ -604,9 +651,9 @@
 								<!--LISTINGS-->
 								<div class="home-list-pop list-spac">
 									<!--LISTINGS IMAGE-->
-									<div class="col-md-3 list-ser-img"> <img src="/images/services/s6.jpg" alt="" /> </div>
+									<div class="col-md-3 list-ser-img"> <img src="/images/categories/dancing.jpg" alt="" /> </div>
 									<!--LISTINGS: CONTENT-->
-									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Andru Modular Kitchen</h3></a>
+									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Dancing Groups</h3></a>
 										<h4>Express Avenue Mall, Los Angeles</h4>
 										<p><b>Address:</b> 28800 Orchard Lake Road, Suite 180 Farmington Hills, U.S.A.</p>
 										<div class="list-number">
@@ -629,34 +676,9 @@
 								<!--LISTINGS-->
 								<div class="home-list-pop list-spac">
 									<!--LISTINGS IMAGE-->
-									<div class="col-md-3 list-ser-img"> <img src="/images/services/s7.jpg" alt="" /> </div>
+									<div class="col-md-3 list-ser-img"> <img src="/images/categories/dancing.jpg" alt="" /> </div>
 									<!--LISTINGS: CONTENT-->
-									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Rute Skin Care & Treatment</h3></a>
-										<h4>Express Avenue Mall, Los Angeles</h4>
-										<p><b>Address:</b> 28800 Orchard Lake Road, Suite 180 Farmington Hills, U.S.A.</p>
-										<div class="list-number">
-											<ul>
-												<li><img src="/images/icon/phone.png" alt=""> +01 1245 2541, +62 6541 6528</li>
-												<li><img src="/images/icon/mail.png" alt=""> localdir@webdir.com</li>
-											</ul>
-										</div> <span class="home-list-pop-rat">4.2</span>
-										<div class="list-enqu-btn">
-											<ul>
-												<li><a href="#!"><i class="fa fa-star-o" aria-hidden="true"></i> Write Review</a> </li>
-												<li><a href="#!"><i class="fa fa-commenting-o" aria-hidden="true"></i> Send SMS</a> </li>
-												<li><a href="#!"><i class="fa fa-phone" aria-hidden="true"></i> Call Now</a> </li>
-												<li><a href="#!" data-dismiss="modal" data-toggle="modal" data-target="#list-quo"><i class="fa fa-usd" aria-hidden="true"></i> Get Quotes</a> </li>
-											</ul>
-										</div>
-									</div>
-								</div>
-								<!--LISTINGS END-->
-								<!--LISTINGS-->
-								<div class="home-list-pop list-spac">
-									<!--LISTINGS IMAGE-->
-									<div class="col-md-3 list-ser-img"> <img src="/images/services/s6.jpg" alt="" /> </div>
-									<!--LISTINGS: CONTENT-->
-									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Health and Fitness</h3></a>
+									<div class="col-md-9 home-list-pop-desc inn-list-pop-desc"> <a href="listing-details.html"><h3>Dancing Groups</h3></a>
 										<h4>Express Avenue Mall, Los Angeles</h4>
 										<p><b>Address:</b> 28800 Orchard Lake Road, Suite 180 Farmington Hills, U.S.A.</p>
 										<div class="list-number">
@@ -698,34 +720,6 @@
 		</div>
 	</section>
 	<!--MOBILE APP-->
-	<section class="web-app com-padd">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-6 web-app-img"> <img src="/images/mobile.png" alt="" /> </div>
-				<div class="col-md-6 web-app-con">
-					<h2>Looking for the Best Service Provider? <span>Get the App!</span></h2>
-					<ul>
-						<li><i class="fa fa-check" aria-hidden="true"></i> Find nearby listings</li>
-						<li><i class="fa fa-check" aria-hidden="true"></i> Easy service enquiry</li>
-						<li><i class="fa fa-check" aria-hidden="true"></i> Listing reviews and ratings</li>
-						<li><i class="fa fa-check" aria-hidden="true"></i> Manage your listing, enquiry and reviews</li>
-					</ul> <span>We'll send you a link, open it on your phone to download the app</span>
-					<form>
-						<ul>
-							<li>
-								<input type="text" placeholder="+01" /> </li>
-							<li>
-								<input type="number" placeholder="Enter mobile number" /> </li>
-							<li>
-								<input type="submit" value="Get App Link" /> </li>
-						</ul>
-					</form>
-					<a href="#"><img src="/images/android.png" alt="" /> </a>
-					<a href="#"><img src="/images/apple.png" alt="" /> </a>
-				</div>
-			</div>
-		</div>
-	</section>
 	<!--FOOTER SECTION-->
 	<footer id="colophon" class="site-footer clearfix">
 		<div id="quaternary" class="sidebar-container " role="complementary">
